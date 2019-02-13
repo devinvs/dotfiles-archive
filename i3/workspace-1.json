@@ -1,0 +1,76 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 772,
+       "width": 1204,
+       "x": 0,
+       "y": 0
+    },
+    "name": "devin@archlinux:~",
+    "percent": 0.5,
+    "swallows": [
+       {
+       "class": "^URxvt$",
+       // "instance": "^urxvt$",
+       // "title": "^devin\\@archlinux\\:\\~$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    // splitv split container with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 772,
+               "width": 1204,
+               "x": 0,
+               "y": 0
+            },
+            "name": "tty-clock",
+            "percent": 0.5,
+            "swallows": [
+               {
+               "class": "^URxvt$",
+               // "instance": "^urxvt$",
+               "title": "^tty\\-clock$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 772,
+               "width": 1204,
+               "x": 0,
+               "y": 0
+            },
+            "name": "cava",
+            "percent": 0.5,
+            "swallows": [
+               {
+               "class": "^URxvt$",
+               // "instance": "^urxvt$",
+               "title": "^cava$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
