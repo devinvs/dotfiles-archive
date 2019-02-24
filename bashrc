@@ -1,10 +1,6 @@
 #
 # ~/.bashrc
 #
-if [[ ! $DISPLAY && $XDG_VTNR -eq 1 ]]; then
-  exec startx
-fi
-
 if [ -f /etc/bash_completion ]; then
     /etc/bash_completion
 fi
@@ -19,3 +15,4 @@ export PATH="$PATH:/home/devin/bin"
 export __GL_YIELD="USLEEP"
 
 alias grip="grep -i"
+alias psgrep="ps -e | grep -i"

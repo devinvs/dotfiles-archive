@@ -15,6 +15,7 @@ font pango:System Roboto Display 10
 new_window pixel 0
 for_window [class="^.*"] border pixel 0
 exec compton -f
+exec libinput-gestures-setup start
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
@@ -63,9 +64,8 @@ bindsym Mod4+d --release exec rofi -show drun -lines 3 -width 100 -eh 2 -theme n
 
 # invert scrolling
 exec --no-startup-id synclient NaturalScrolling=1 VertScrollDelta=-50 HorizScrollDelta=-50
-
 # launch i3lock
-bindsym Mod4+Shift+x exec lock
+bindsym Mod4+Shift+x exec ~/bin/lock
 
 # change focus
 bindsym Mod4+$left focus left
@@ -129,12 +129,11 @@ exec echo "20000" | sudo tee /sys/class/backlight/intel_backlight/brightness
 
 # Special Key Bindings
 bindcode 121 exec amixer set Master toggle
-bindcode 122 exec amixer set Master 10%-
-bindcode 123 exec amixer set Master 10%+
-bindcode 232 exec sudo brightness down
-bindcode 233 exec sudo brightness up
-bindcode 245 exec sudo bluetoothToggle
-bindcode 95 exec sudo backlight
+bindcode 122 exec amixer set Master 5%-
+bindcode 123 exec amixer set Master 5%+
+bindcode 234 exec sudo ~/bin/brightness down
+bindcode 235 exec sudo ~/bin/brightness up
+bindcode 95 exec sudo ~/bin/backlight
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
@@ -180,12 +179,12 @@ assign [class="code-oss"] $ws3
 assign [class="Spotify"] $ws10
 for_window [class="Spotify"] move to workspace $ws10
 
-exec --no-startup-id i3-msg "workspace $ws3; exec /usr/bin/code"
 # default programs
 exec spotify
 exec firefox
-exec --nostartup-id i3-msg "workspace $ws1; exec urxvt; exec urxvt -e "tty-clock"; split v; exec urxvt -e "cava""
-
+exec code
+exec --no-startup-id i3-msg "workspace $ws1"
+exec urxvt
 # workspace gaps
 workspace $ws2 gaps outer 0
 workspace $ws3 gaps outer 0
