@@ -49,7 +49,7 @@ floating_modifier Mod4
 bindsym Mod4+Return exec urxvt --visual 0x199
 
 # set background
-exec --no-startup-id feh --bg-center ~/bg.jpg
+exec --no-startup-id feh --bg-scale ~/bg.png
 
 # kill focused window
 bindsym Mod4+Shift+q kill
@@ -145,7 +145,7 @@ set $ws5 "5"
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
-set $ws9 "9"
+set $ws9 "9:"
 set $ws10 "10:"
 
 
@@ -174,15 +174,16 @@ bindsym Mod4+Shift+9 move container to workspace $ws9
 bindsym Mod4+Shift+0 move container to workspace $ws10
 
 # set workspace specific programs
-assign [class="Firefox"] $ws2
 assign [class="code-oss"] $ws3
 assign [class="Spotify"] $ws10
+assign [class="discord"] $ws9
 for_window [class="Spotify"] move to workspace $ws10
 
 # default programs
 exec spotify
-exec firefox
+exec --no-startup-id i3-msg "workspace $ws2; exec firefox"
 exec code
+exec discord
 exec --no-startup-id i3-msg "workspace $ws1"
 exec urxvt
 # workspace gaps
@@ -213,7 +214,7 @@ hide_edge_borders both
 bar {
         status_command i3blocks -c  ~/.i3/i3blocks.conf
         position top
-        font pango:System Roboto Display 10,FontAwesome 10
+        font pango:System Roboto Display 10, FontAwesome 10
         separator_symbol " "
         strip_workspace_numbers yes
 
