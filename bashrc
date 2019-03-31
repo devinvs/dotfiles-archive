@@ -16,3 +16,4 @@ export __GL_YIELD="USLEEP"
 
 alias grip="grep -i"
 alias psgrep="ps -e | grep -i"
+alias cp="cp -r"
