@@ -1,0 +1,66 @@
+   0.000 2019-10-24 08:50:00; Factorio 0.17.69 (build 47194, linux64, steam)
+   0.066 Operating system: Linux (Arch rolling)
+   0.066 Program arguments: "/home/devin/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" 
+   0.066 Read data path: /home/devin/.local/share/Steam/steamapps/common/Factorio/data
+   0.066 Write data path: /home/devin/.factorio [35492/215522MB]
+   0.066 Binaries path: /home/devin/.local/share/Steam/steamapps/common/Factorio/bin
+   0.074 System info: [CPU: Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz, 12 cores, RAM: 15626 MB]
+   0.074 Environment: DISPLAY=:0 WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=/usr/share/xsessions/i3-with-shmlog XDG_SESSION_DESKTOP= XDG_CURRENT_DESKTOP= __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.074 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.308 Available displays: 1
+   0.308  [0]: 0 - {[0,0], 3840x2160, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.441 Initialised OpenGL:[0] GeForce GTX 1050 Ti with Max-Q Design/PCIe/SSE2; driver: 3.3.0 NVIDIA 435.21
+   0.441   [Extensions] s3tc:yes; KHR_debug:yes; ARB_clear_texture:yes, ARB_copy_image:yes
+   0.441   [Version] 3.3
+   0.441 Graphics settings preset: very-high
+   0.441   Dedicated video memory size 4096 MB
+   0.505 Graphics options: [Graphics quality: high] [Video memory usage: all] [Light scale: 25%] [DXT: high-quality] [Color: 32bit]
+   0.505                   [Max threads (load/render): 32/12] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDC]
+   0.630 Loading mod core 0.0.0 (data.lua)
+   0.775 Loading mod base 0.17.69 (data.lua)
+   1.133 Loading mod base 0.17.69 (data-updates.lua)
+   1.263 Checksum for core: 2087614386
+   1.263 Checksum of base: 1061071205
+   1.530 Prototype list checksum: 3040646442
+   1.570 Loading sounds...
+   1.721 Info PlayerData.cpp:70: Local player-data.json unavailable
+   1.721 Info PlayerData.cpp:73: Cloud player-data.json available, timestamp 1571801969
+   2.002 Initial atlas bitmap size is 16384
+   2.032 Created atlas bitmap 16384x16380 [none]
+   2.044 Created atlas bitmap 16384x11616 [none]
+   2.044 Created atlas bitmap 8192x3872 [decal]
+   2.045 Created atlas bitmap 16384x4320 [low-object, linear-minification]
+   2.045 Created atlas bitmap 8192x3744 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.047 Created atlas bitmap 16384x7168 [terrain, mipmap, linear-minification, linear-mip-level]
+   2.047 Created atlas bitmap 4096x1600 [smoke, mipmap, linear-minification, linear-magnification]
+   2.048 Created atlas bitmap 4096x1744 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.048 Created atlas bitmap 2048x192 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   2.048 Created atlas bitmap 8192x1632 [alpha-mask]
+   2.052 Created atlas bitmap 16384x12772 [shadow, linear-magnification, alpha-mask]
+   2.052 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   2.064 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   3.762 Parallel Sprite Loader initialized (threads: 11)
+  18.440 Sprites loaded
+  18.505 Generated mipmaps (4) for atlas [3] of size 16384x4320   
+  18.518 Generated mipmaps (3) for atlas [4] of size 8192x3744   
+  18.777 Generated mipmaps (3) for atlas [5] of size 16384x7168   
+  18.794 Generated mipmaps (3) for atlas [6] of size 4096x1600   
+  18.810 Generated mipmaps (5) for atlas [7] of size 4096x1744   
+  18.815 Generated mipmaps (3) for atlas [11] of size 8192x2352   
+  18.830 Custom mipmaps uploaded.
+  19.064 Factorio initialised
+  25.137 Loading map /home/devin/.factorio/saves/_autosave1.zip: 4652234 bytes.
+  25.174 Loading level.dat: 11710061 bytes.
+  25.177 Info Scenario.cpp:187: Map version 0.17.69-1
+  25.911 Loading script.dat: 328 bytes.
+  25.919 Checksum for script /home/devin/.factorio/temp/currently-playing/control.lua: 3265260072
+ 136.717 Info AppManager.cpp:287: Saving to _autosave3 (blocking).
+ 137.847 Info AppManagerStates.cpp:1793: Saving finished
+ 437.872 Info AppManager.cpp:287: Saving to _autosave1 (blocking).
+ 438.954 Info AppManagerStates.cpp:1793: Saving finished
+ 738.946 Info AppManager.cpp:287: Saving to _autosave2 (blocking).
+ 739.996 Info AppManagerStates.cpp:1793: Saving finished
+ 826.487 Info AppManagerStates.cpp:1793: Saving finished
+ 828.657 Quitting: user-quit.
+ 828.815 Steam API shutdown.
+ 828.823 Goodbye
