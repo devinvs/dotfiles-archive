@@ -14,6 +14,7 @@
 font pango:System Roboto Display 10
 new_window pixel 0
 for_window [class="^.*"] border pixel 0
+for_window [class="nm-connection-editor"] floating enable
 exec compton -f
 exec libinput-gestures-setup start
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
@@ -25,8 +26,38 @@ exec libinput-gestures-setup start
 
 gaps inner 20
 gaps outer 20
+gaps top 10
 
 ################################################################################
+
+# KDE Crap
+
+# Try to kill the wallpaper set by Plasma (it takes up the entire workspace
+# and hides everythiing)
+exec --no-startup-id wmctrl -c Plasma
+exec --no-startup-id polybar example
+for_window [title="Desktop — Plasma"] kill; floating enable; border none
+
+# Avoid tiling popups, dropdown windows from plasma
+for_window [class="plasmashell"] floating enable
+for_window [class="Plasma"] floating enable
+for_window [class="krunner"] floating enable
+for_window [class="Kmix"] floating enable
+for_window [class="Klipper"] floating enable
+for_window [class="Plasmoidviewer"] floating enable
+for_window [class="Nm-connection-editor"] floating enable
+for_window [class="Nm-connection-editor"] move absolute position 2990px 60px
+
+# >>> Window Rules <<<
+
+# >>> Avoid tiling for non-Plasma stuff <<<
+for_window [window_role="pop-up"] floating enable
+for_window [window_role="bubble"] floating enable
+for_window [window_role="task_dialog"] floating enable
+for_window [window_role="Preferences"] floating enable
+for_window [window_role="About"] floating enable 
+for_window [window_type="dialog"] floating enable
+for_window [window_type="menu"] floating enable
 
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
@@ -46,10 +77,12 @@ set $right semicolon
 floating_modifier Mod4
 
 # start a terminal
-bindsym Mod4+Return exec urxvt --visual 0x199
+bindsym Mod4+Return exec kitty -1
 
 # set background
-exec --no-startup-id feh --bg-scale ~/bg.png
+exec --no-startup-id feh --bg-scale ~/bg.jpg
+
+bindsym l+m+n+o+p exec termite
 
 # kill focused window
 bindsym Mod4+Shift+q kill
@@ -57,6 +90,7 @@ bindsym Mod4+Shift+q kill
 # launch rofi
 bindsym Mod4+d --release exec rofi -show drun -lines 3 -width 100 -eh 2 -theme nord -font "System Roboto Display 36" -no-show-match --release -opacity "85"
 
+# bindsym Mod4+d exec dmenu_run -nb '#282c34' -sf '#61afef' -sb '#282c34' -nf '#ffffff' -i 
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
@@ -65,13 +99,13 @@ bindsym Mod4+d --release exec rofi -show drun -lines 3 -width 100 -eh 2 -theme n
 # invert scrolling
 exec --no-startup-id synclient NaturalScrolling=1 VertScrollDelta=-50 HorizScrollDelta=-50
 # launch i3lock
-bindsym Mod4+Shift+x exec ~/bin/lock
+bindsym Mod4+l exec "dm-tool lock"
 
 # change focus
-bindsym Mod4+$left focus left
-bindsym Mod4+$down focus down
-bindsym Mod4+$up focus up
-bindsym Mod4+$right focus right
+#bindsym Mod4+$left focus left
+#bindsym Mod4+$down focus down
+#bindsym Mod4+$up focus up
+#bindsym Mod4+$right focus right
 
 # alternatively, you can use the cursor keys:
 bindsym Mod4+Left focus left
@@ -135,18 +169,22 @@ bindcode 234 exec sudo ~/bin/brightness down
 bindcode 235 exec sudo ~/bin/brightness up
 bindcode 95 exec sudo ~/bin/backlight
 
+bindsym XF86AudioPlay exec dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.PlayPause
+bindsym XF86AudioNext exec dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Next
+bindsym XF86AudioPrev exec dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Previous
+
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1:"
-set $ws2 "2:"
-set $ws3 "3:"
-set $ws4 "4:"
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
 set $ws5 "5"
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
-set $ws9 "9:"
-set $ws10 "10:"
+set $ws9 "9"
+set $ws10 "10"
 
 
 # switch to workspace
@@ -177,16 +215,15 @@ bindsym Mod4+Shift+0 move container to workspace $ws10
 assign [class="code-oss"] $ws3
 assign [class="Spotify"] $ws10
 assign [class="discord"] $ws9
+assign [class="Anaconda-Navigator"] $ws3
 for_window [class="Spotify"] move to workspace $ws10
 
 # default programs
-exec nm-applet
 exec spotify
-exec --no-startup-id i3-msg "workspace $ws2; exec firefox"
-exec code
-exec discord
+exec --no-startup-id i3-msg "workspace $ws2; exec google-chrome-stable"
+# exec discord
 exec --no-startup-id i3-msg "workspace $ws1"
-exec urxvt
+exec termite
 # workspace gaps
 workspace $ws2 gaps outer 0
 workspace $ws3 gaps outer 0
@@ -199,10 +236,9 @@ bindsym Mod4+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym Mod4+Shift+e exec /usr/lib/i3blocks/shutdown_menu
 
-
-set $bg_color #2e3440
-set $text_color #d8dee9
-set $focus_color #5e81ac
+set $bg_color #282c34
+set $text_color #dcdfe4
+set $focus_color #61afef
 
 # window colors
 #                       border          background      text            indicator
@@ -210,24 +246,6 @@ client.focused          $bg_color       $bg_color       $text_color     #ff0000
 client.focused_inactive $bg_color       $bg_color       $text_color     #ff0000
 client.urgent           $bg_color       $bg_color       $text_color     #ff0000
 hide_edge_borders both
-
-
-bar {
-        status_command i3blocks -c  ~/.i3/i3blocks.conf
-        position top
-        font pango:System Roboto Display 10, FontAwesome 10
-        separator_symbol " "
-        strip_workspace_numbers yes
-
-        colors {
-                background $bg_color
-                separator #757575
-                #                       border          background      text
-                focused_workspace       $focus_color    $focus_color    $text_color
-                inactive_workspace      $bg_color       $bg_color       $text_color
-                urgent_workspace        $bg_color       $bg_color       $text_color
-        }
-}
 
 
 # resize window (you can also use the mouse for that)
