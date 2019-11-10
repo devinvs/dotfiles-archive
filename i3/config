@@ -17,6 +17,7 @@ for_window [class="^.*"] border pixel 0
 for_window [class="nm-connection-editor"] floating enable
 exec compton -f
 exec libinput-gestures-setup start
+exec dunst
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
@@ -25,7 +26,7 @@ exec libinput-gestures-setup start
 # gaps
 
 gaps inner 20
-gaps outer 20
+gaps outer 0
 gaps top 10
 
 ################################################################################
@@ -82,8 +83,6 @@ bindsym Mod4+Return exec kitty -1
 # set background
 exec --no-startup-id feh --bg-scale ~/bg.jpg
 
-bindsym l+m+n+o+p exec termite
-
 # kill focused window
 bindsym Mod4+Shift+q kill
 
@@ -99,7 +98,7 @@ bindsym Mod4+d --release exec rofi -show drun -lines 3 -width 100 -eh 2 -theme n
 # invert scrolling
 exec --no-startup-id synclient NaturalScrolling=1 VertScrollDelta=-50 HorizScrollDelta=-50
 # launch i3lock
-bindsym Mod4+l exec "dm-tool lock"
+bindsym Mod4+l exec "/home/devin/bin/lock"
 
 # change focus
 #bindsym Mod4+$left focus left
@@ -224,9 +223,6 @@ exec --no-startup-id i3-msg "workspace $ws2; exec google-chrome-stable"
 # exec discord
 exec --no-startup-id i3-msg "workspace $ws1"
 exec termite
-# workspace gaps
-workspace $ws2 gaps outer 0
-workspace $ws3 gaps outer 0
 
 # reload the configuration file
 bindsym Mod4+Shift+c reload
