@@ -1,0 +1,2 @@
+xrandr --output DP-0.1 --off --output DP-0.2 --off
+launch_polybar.sh

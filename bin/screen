@@ -1,0 +1,4 @@
+#!/bin/bash
+
+xrandr --output $1 --auto --scale $2x$2 --right-of DP-2
+launch_polybar.sh

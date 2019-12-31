@@ -6,7 +6,7 @@
 
 * {
     foreground:                 #dcdfe4;
-    background: 		argb:cc313640;
+    background: 		        #282c34;
     active-foreground:          #61afef;
 }
 #window {
@@ -14,6 +14,7 @@
     border:           0;
     padding:          1000;
 }
+
 #mainbox {
     border:  0;
     padding: 0;
@@ -116,10 +117,12 @@
     text-color: @foreground;
     background-color: transparent;
 }
+
 #inputbar {
     //background-color: @background;
     children:   [ prompt,textbox-prompt-colon,entry,case-indicator ];
 }
+
 #textbox-prompt-colon {
     expand:     false;
     str:        ":";
