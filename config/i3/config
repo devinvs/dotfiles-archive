@@ -9,22 +9,22 @@ exec --no-startup-id picom --config ~/.config/picom.conf -f --experimental-backe
 # Set floating window types
 for_window [class="Nm-connection-editor"] floating enable
 for_window [class="Nm-connection-editor"] move absolute position 2990px 60px
-
+for_window [window_role="pop-up"] floating enable
 # Set gaps
 gaps inner 20
-gaps outer 0
-gaps top 10
+border_radius 15
 
-# Start Background processes
+# startup programs
+exec clight
 exec libinput-gestures-setup start
 exec dunst
 exec MONITOR=DP-2 polybar example 
 
 # Set movement keys
-set $up l
-set $down k
-set $left j
-set $right semicolon
+set $up k
+set $down j
+set $left h
+set $right l
 
 # Use Mouse+Mod4 to drag floating windows to their wanted position
 floating_modifier Mod4
@@ -58,6 +58,12 @@ bindsym Mod4+Shift+Left move left
 bindsym Mod4+Shift+Down move down
 bindsym Mod4+Shift+Up move up
 bindsym Mod4+Shift+Right move right
+
+# move workspaces
+bindsym Mod4+Mod1+$left move workspace to output left
+bindsym Mod4+Mod1+Left move workspace to output left
+bindsym Mod4+Mod1+$right move workspace to output left
+bindsym Mod4+Mod1+Right move workspace to output right
 
 # split in horizontal orientation
 bindsym Mod4+h split h
@@ -99,6 +105,9 @@ bindcode 123 exec amixer set Master 5%+
 bindcode 172 exec spotifycli --playpause
 bindcode 171 exec spotifycli --next
 bindcode 173 exec spotifycli --prev
+
+bindcode 232 exec busctl call org.clightd.clightd /org/clightd/clightd/Backlight org.clightd.clightd.Backlight LowerAll "d(bdu)s" 0.1 0 0 0 ""
+bindcode 233 exec busctl call org.clightd.clightd /org/clightd/clightd/Backlight org.clightd.clightd.Backlight RaiseAll "d(bdu)s" 0.1 0 0 0 "" 
 
 # Define Workspaces
 set $ws1 "1"
