@@ -10,6 +10,7 @@ exec --no-startup-id picom --config ~/.config/picom.conf -f --experimental-backe
 for_window [class="Nm-connection-editor"] floating enable
 for_window [class="Nm-connection-editor"] move absolute position 2990px 60px
 for_window [window_role="pop-up"] floating enable
+
 # Set gaps
 gaps inner 20
 border_radius 15

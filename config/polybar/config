@@ -71,7 +71,6 @@ modules-right = pulseaudio cpu memory temperature battery wlan date powermenu
 
 tray-position = none
 tray-padding = 2
-tray-background = #0063ff
 
 wm-restack = i3 
 ;wm-restack = i3
@@ -100,7 +99,7 @@ wrapping-scroll = false
 ;pin-workspaces = true
 
 ws-icon-0 = 1;
-ws-icon-1 = 2;
+ws-icon-1 = 2;龜
 ws-icon-2 = 3;
 ws-icon-3 = 4;
 ws-icon-4 = 5;
@@ -113,14 +112,12 @@ ws-icon-9 = 10;
 ws-icon-default = ?
 
 label-mode-padding = 5
-label-mode-foreground = ${colors.blue}
-label-mode-background = ${colors.blue}
 
 ; focused = Active workspace on focused monitor
 label-focused = %icon%
 label-focused-background = ${colors.background-alt}
 label-focused-underline= #00000000
-label-focused-foreground= #61afef
+label-focused-foreground= ${colors.blue}
 label-focused-padding = 5
 
 ; unfocused = Inactive workspace on any monitor
