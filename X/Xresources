@@ -59,7 +59,7 @@ URxvt.perl-ext-common: default,matcher
 URxvt.matcher.button: 1
 URxvt.matcher.rend.0: Uline Bold nord11
 URxvt.scrollBar: false
-Xft.dpi : 180
+Xft.dpi : 182
 Xft.autohint: 0
 Xft.lcdfilter: lcddefault
 Xft.hintstyle: hintfull
