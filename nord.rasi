@@ -5,9 +5,9 @@
  *******************************************************************************/
 
 * {
-    foreground:                 #dcdfe4;
-    background: 		        #282c34;
-    active-foreground:          #61afef;
+    foreground:                 #ffffff;
+    background:                 #020e16;
+    active-foreground:          #446ea6;
 }
 #window {
     background-color: @background;
