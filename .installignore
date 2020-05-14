@@ -1,0 +1,5 @@
+.git
+.gitignore
+.installignore
+install.sh
+build
