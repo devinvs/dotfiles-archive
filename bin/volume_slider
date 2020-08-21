@@ -1,0 +1,9 @@
+#!/bin/bash
+
+PS=$(ps -e | rg volume_slider | wc -l)
+
+if [ "$PS" -le "2" ]; then
+    /home/devin/bin/volume_slider.py
+else
+    echo "Program has already been started"
+fi

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=##THEME_NAME##
+Comment=Your custom theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=##THEME_NAME##
+GtkTheme=##THEME_NAME##
+IconTheme=##THEME_NAME##

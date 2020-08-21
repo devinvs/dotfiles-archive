@@ -1,3 +1,2 @@
 #!/bin/bash
-xwobf -s 15 /tmp/.i3lock.png
-i3lock -i /tmp/.i3lock.png -e -u
+betterlockscreen -l

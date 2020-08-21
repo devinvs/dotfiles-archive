@@ -1,4 +1,1 @@
-xrandr --output DP-0.1 --auto --primary --pos 0x0 --scale 2x2 --output DP-0.2 --auto --pos 3840x0 --scale 2x2 --output DP-2 --auto --pos 7680x0
-launch_polybar.sh
-feh --bg-fill ~/bg.jpg
-xinput --set-prop 16 'libinput Accel Speed' 0.5
+xrandr --output DP-0.1 --auto --primary --pos 0x0 --scale 2x2 --output DP-0.2 --auto --pos 3840x0 --scale 2x2 --output DP-2 --off

@@ -1,0 +1,11 @@
+# GIMP colorrc
+# 
+# This file holds a list of recently used colors.
+
+(color-history
+    (color-rgba 1 1 1 1)
+    (color-rgba 0 0 0 1)
+    (color-rgba 0.41568630933761597 0.63921570777893066 0.66666668653488159 1)
+    (color-rgba 0 0.47058826684951782 0.84313732385635376 1))
+
+# end of colorrc
