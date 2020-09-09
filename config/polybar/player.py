@@ -2,6 +2,8 @@ import subprocess
 import sys
 import time
 
+printed = False
+
 
 def run_command(cmd):
     process = subprocess.run(cmd,
@@ -12,6 +14,8 @@ def run_command(cmd):
 
 
 def sprint(*str):
+    global printed
+    printed = True
     print(*str, file=sys.stdout)
     sys.stdout.flush()
 
@@ -65,10 +69,12 @@ def print_player():
 
             elif player.startswith("chromium"):
                 sprint(f"%{{B#F3636C}} {padding}   {title} {padding} %{{B-}}")
-        else:
-            sprint(f"{padding} Nothing Playing {padding}")
+                break
+    if not printed:
+        sprint(f"{padding} Nothing Playing {padding}")
 
 
 while True:
+    printed = False
     print_player()
     time.sleep(3)

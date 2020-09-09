@@ -6,7 +6,7 @@
 (dynamics "Dynamics Off")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
-(brush-size 83)
+(brush-size 11)
 (brush-hardness 0.72999999999999998)
 
 # end of gimp-smudge-tool options

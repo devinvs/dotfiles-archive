@@ -1,29 +1,33 @@
 # Set the primary font to Roboto
 font pango:System Roboto Display 10
 
-# Startup Compton
 new_window pixel 0
 for_window [class="^.*"] border pixel 0
-# exec_always --no-startup-id picom --config ~/.config/picom.conf -f --experimental-backends
-
 for_window [class="cheese"] border normal
 
 # Set floating window types
+for_window [class="VolumeSlider"] floating enable
+for_window [class="VolumeSlider"] move absolute position 3750px 700px
+
 for_window [class="Nm-connection-editor"] floating enable
 for_window [class="Nm-connection-editor"] move absolute position 2990px 60px
+
 for_window [window_role="pop-up"] floating enable
-for_window [class="Google-chrome"] floating disable
 for_window [title="Android Emulator - Pixel_2_API_29:5554"] floating enable
 
 # Set gaps
-gaps inner 20
+gaps inner 30
+gaps top 10
 
 # startup programs
-exec clight
+exec_always --no-startup-id picom --config ~/.config/picom.conf -f --experimental-backends
+exec --no-startup-id feh --bg-scale ~/Pictures/Wallpapers/bspwm/spfy.jpg
+exec clight &
 exec libinput-gestures-setup start
-exec dunst
-exec /home/devin/bin/autodock
-exec /home/devin/bin/launch_polybar
+exec dunst &
+exec polybar left &
+exec polybar right &
+exec polybar play &
 
 # Set movement keys
 set $up k
@@ -37,14 +41,14 @@ floating_modifier Mod4
 # Start a terminal
 bindsym Mod4+Return exec alacritty
 
-# Set background
-exec --no-startup-id feh --bg-scale ~/bg.jpg
-
 # Kill focused window
 bindsym Mod4+Shift+q kill
 
 # Launch rofi
-bindsym Mod4+d --release exec rofi -show drun -lines 3 -width 100 -eh 2 -font "System Roboto Display 36" -no-show-match --release -opacity "85"
+bindsym Mod4+d --release exec rofi -show drun -theme /home/devin/.config/rofi/config.rasi.back -lines 3 -width 100 -eh 2 -font "System Roboto Display 50" -no-show-match --release
+
+# Lock
+bindsym Mod4+l exec /home/devin/bin/lock
 
 # alternatively, you can use the cursor keys:
 bindsym Mod4+Left focus left
@@ -79,34 +83,13 @@ bindsym Mod4+v split v
 # enter fullscreen mode for the focused container
 bindsym Mod4+f fullscreen toggle
 
-# change container layout (stacked, tabbed, toggle split)
-bindsym Mod4+s layout stacking
-bindsym Mod4+w layout tabbed
-bindsym Mod4+e layout toggle split
-
 # toggle tiling / floating
-bindsym Mod4+Shift+space floating toggle
-
-# change focus between tiling / floating windows
-bindsym Mod4+space focus mode_toggle
-
-# focus the parent container
-bindsym Mod4+a focus parent
-
-# focus the child container
-#bindsym Mod4+d focus child
-
-# move the currently focused window to the scratchpad
-bindsym Mod4+Shift+minus move scratchpad
-
-# Show the next scratchpad window or hide the focused scratchpad window.
-# If there are multiple scratchpad windows, this command cycles through them.
-bindsym Mod4+minus scratchpad show
+bindsym Mod4+s floating toggle
 
 # Special Key Bindings
-bindcode 121 exec amixer set Master toggle
-bindcode 122 exec amixer set Master 5%-
-bindcode 123 exec amixer set Master 5%+
+bindcode 121 exec amixer set Master toggle && /home/devin/bin/volume_slider
+bindcode 122 exec amixer set Master 5%- && /home/devin/bin/volume_slider
+bindcode 123 exec amixer set Master 5%+ && /home/devin/bin/volume_slider
 
 # Media player controls
 bindcode 171 exec playerctl next
@@ -165,11 +148,6 @@ bindsym Mod4+Shift+0 move container to workspace $ws10
 assign [class="code-oss"] $ws3
 assign [class="discord"] $ws9
 assign [class="Anaconda-Navigator"] $ws3
-
-# Startup Programs
-exec --no-startup-id i3-msg "workspace $ws2; exec firefox"
-exec --no-startup-id i3-msg "workspace $ws1"
-exec alacritty
 
 # Reload the configuration file
 bindsym Mod4+Shift+c reload
