@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Linux Lite 3.x Spinner by TheDead
+Description=A theme based on Ubuntu Spinner Logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lite_spinner
+ScriptFile=/usr/share/plymouth/themes/lite_spinner/lite_spinner.script
