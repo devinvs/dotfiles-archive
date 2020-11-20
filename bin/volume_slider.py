@@ -10,25 +10,25 @@ from PyQt5.QtWidgets import QApplication, QSlider, QMainWindow
 
 slider_style = """
 QSlider {
-    min-width: 30px;
-    max-width: 30px;
+    min-width: 25px;
+    max-width: 25px;
 }
 
 QSlider::groove:vertical {
     border: 0px;
     width: 6px;
-    background: #a0deb6;
+    background: #75b2f0;
     border-radius: 10px;
     margin 12px 0;
 }
 
 QSlider::sub-page:vertical {
-    background: #a0deb6;
+    background: #75b2f0;
     width: 6px;
 }
 
 QSlider::add-page:vertical {
-    background: #3bab62;
+    background: #3991ea;
     width: 6px;
     border-radius: 4px;
 }
@@ -37,7 +37,7 @@ QSlider::handle:vertical {
     height: 16px;
     width: 10px;
     border-radius: 32px;
-    background: #3bab62;
+    background: #3991ea;
     margin: 0 -10px;
 }
 

@@ -7,7 +7,7 @@ for_window [class="cheese"] border normal
 
 # Set floating window types
 for_window [class="VolumeSlider"] floating enable
-for_window [class="VolumeSlider"] move absolute position 3750px 700px
+for_window [class="VolumeSlider"] move absolute position 3740px 700px
 
 for_window [class="Nm-connection-editor"] floating enable
 for_window [class="Nm-connection-editor"] move absolute position 2990px 60px
@@ -21,7 +21,7 @@ gaps top 10
 
 # startup programs
 exec_always --no-startup-id picom --config ~/.config/picom.conf -f --experimental-backends
-exec --no-startup-id feh --bg-scale ~/Pictures/Wallpapers/bspwm/spfy.jpg
+exec --no-startup-id feh --bg-scale ~/Pictures/Wallpapers/larry-chen-Nte-4RiRfwU-unsplash.jpg
 exec clight &
 exec libinput-gestures-setup start
 exec dunst &

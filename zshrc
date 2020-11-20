@@ -4,6 +4,10 @@ ifpath+=$HOME/.zsh/pure
 autoload -U promptinit; promptinit
 autoload -Uz compinit; compinit
 
+HISTSIZE=1000
+SAVEHIST=1000
+HISTFILE=~/.history
+
 # Exports
 export PATH="$PATH:/home/devin/bin:/home/devin/.local/bin:/home/devin/.yarn/bin"
 

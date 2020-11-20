@@ -1,5 +1,9 @@
 syntax on
-colorscheme dark_wolf
+colorscheme material
+
+set termguicolors
+let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 
 set tabstop=4
 set softtabstop=4
@@ -51,6 +55,7 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'dense-analysis/ale'
 Plugin 'mattn/emmet-vim'
 Plugin 'cespare/vim-toml'
+Plugin 'chrisbra/Colorizer'
 
 call vundle#end()
 filetype plugin indent on
@@ -93,3 +98,5 @@ highlight ALEWarning ctermbg=Black
 
 highlight ALEError ctermbg=none cterm=underline
 highlight ALEWarning ctermbg=none cterm=underline
+
+let g:colorizer_auto_color = 1

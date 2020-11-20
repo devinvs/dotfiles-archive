@@ -21,18 +21,18 @@
 background = #00000000
 background-alt = #F2020E16
 ;foreground = ${xrdb:color7:#222}
-foreground = #020E16
-foreground-alt = #545454
+foreground = #1a1a1a
+foreground-alt = #424242
 
 
-black = #020E16
-orange = #f38f63
-red = #f3636c
-green = #5fc883
-yellow = #c8a056
-blue= #598fd8
-cyan= #53a3b7
-purple= #956ba2
+black = #1a1a1a
+orange = #ffb13d
+red = #ff4949
+green = #64e66f
+yellow = #ffdf40
+blue= #3991ea
+cyan= #3cc1e5
+purple= #dc76ff
 white= #ffffff
 
 [bar/left]
