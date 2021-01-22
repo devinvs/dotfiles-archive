@@ -1,0 +1,5 @@
+2020/12/30-22:13:54.620 1a58 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.smashingmagazine.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/30-22:14:51.816 1a58 Level-0 table #5: started
+2020/12/30-22:14:51.838 1a58 Level-0 table #5: 3451 bytes OK
+2020/12/30-22:14:51.855 1a58 Delete type=0 #3
+2020/12/30-22:14:51.855 1a58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

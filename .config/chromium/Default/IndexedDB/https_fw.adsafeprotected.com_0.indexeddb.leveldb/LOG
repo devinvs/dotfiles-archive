@@ -1,0 +1,15 @@
+2020/11/23-21:24:54.334 ecd6 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_fw.adsafeprotected.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-21:24:54.334 ecd6 Recovering log #7
+2020/11/23-21:24:54.335 ecd6 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_fw.adsafeprotected.com_0.indexeddb.leveldb/000007.log 
+2020/11/23-21:25:04.283 ecdb Level-0 table #11: started
+2020/11/23-21:25:04.290 ecdb Level-0 table #11: 190 bytes OK
+2020/11/23-21:25:04.297 ecdb Delete type=0 #7
+2020/11/23-21:25:04.298 ecdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-21:25:04.299 ecdb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2020/11/23-21:25:04.299 ecdb Compacting 1@1 + 1@2 files
+2020/11/23-21:25:04.303 ecdb Generated table #12@1: 8 keys, 362 bytes
+2020/11/23-21:25:04.303 ecdb Compacted 1@1 + 1@2 files => 362 bytes
+2020/11/23-21:25:04.310 ecdb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-21:25:04.310 ecdb Delete type=2 #5
+2020/11/23-21:25:04.310 ecdb Delete type=2 #11
+2020/11/23-21:25:04.311 ecdb Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

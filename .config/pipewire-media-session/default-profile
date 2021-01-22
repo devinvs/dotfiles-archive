@@ -1,0 +1,2 @@
+alsa_card.pci-0000:00:1f.3 output:analog-stereo+input:analog-stereo
+alsa_card.usb-BLUE_MICROPHONE_Blue_Snowball_201306-00 input:mono-fallback

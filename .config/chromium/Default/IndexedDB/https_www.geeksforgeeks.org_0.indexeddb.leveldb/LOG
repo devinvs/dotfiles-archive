@@ -1,0 +1,8 @@
+2021/01/21-16:08:56.988 7fbb Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.geeksforgeeks.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/21-16:08:56.988 7fbb Recovering log #17
+2021/01/21-16:08:56.988 7fbb Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.geeksforgeeks.org_0.indexeddb.leveldb/000017.log 
+2021/01/21-16:09:07.610 c29c Level-0 table #21: started
+2021/01/21-16:09:07.610 c29c Level-0 table #21: 0 bytes OK
+2021/01/21-16:09:07.621 c29c Delete type=0 #17
+2021/01/21-16:09:07.622 c29c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/21-16:09:07.622 c29c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

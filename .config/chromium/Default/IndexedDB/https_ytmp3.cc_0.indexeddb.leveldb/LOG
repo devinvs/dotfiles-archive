@@ -1,0 +1,5 @@
+2020/12/07-15:50:58.799 11ecab Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_ytmp3.cc_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/07-15:51:07.143 11ecab Level-0 table #5: started
+2020/12/07-15:51:07.150 11ecab Level-0 table #5: 1437 bytes OK
+2020/12/07-15:51:07.167 11ecab Delete type=0 #3
+2020/12/07-15:51:07.167 11ecab Manual compaction at level-0 from (begin) .. (end); will stop at (end)

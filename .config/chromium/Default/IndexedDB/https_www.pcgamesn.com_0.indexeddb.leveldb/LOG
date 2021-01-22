@@ -1,0 +1,5 @@
+2020/12/07-15:44:54.599 11d4ec Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.pcgamesn.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/07-15:44:57.215 11d4ec Level-0 table #5: started
+2020/12/07-15:44:57.221 11d4ec Level-0 table #5: 342 bytes OK
+2020/12/07-15:44:57.316 11d4ec Delete type=0 #3
+2020/12/07-15:44:57.316 11d4ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

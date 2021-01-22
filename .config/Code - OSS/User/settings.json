@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Material",
+    "window.menuBarVisibility": "toggle",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "breadcrumbs.enabled": true,
+    "editor.wordWrap": "on",
+    "eslint.codeActionsOnSave.mode": "all",
+    "files.eol": "\n",
+    "editor.formatOnSave": true,
+    "beautify.language": {
+        "js": [],
+        "css": [],
+        "html": [
+            "htm",
+            "html",
+            "php"
+        ]
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "explorer.confirmDragAndDrop": false
+}

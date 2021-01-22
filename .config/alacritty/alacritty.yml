@@ -1,0 +1,46 @@
+window:
+  padding:
+    x: 30
+    y: 30
+font:
+  size: 12.0
+  normal:
+    family: Source Code Pro
+    style: Medium
+  bold:
+    family: Source Code Pro
+  italic:
+    family: Source Code Pro
+colors:
+  primary:
+    background: '0x1a1a1a'
+    foreground: '0xf2f2f2'
+  # Normal colors
+  normal:
+    black:   '0x1a1a1a'
+    red:     '0xdd4e4e'
+    green:   '0x6e9f57'
+    yellow:  '0xde8b50'
+    blue:    '0x5b8bd6'
+    magenta: '0xa56cc4'
+    cyan:    '0x72c2c4'
+    white:   '0xd2d2d2'
+
+  # Bright colors
+  bright:
+    black:   '0x424242'
+    red:     '0xf35656'
+    green:   '0x83bd68'
+    yellow:  '0xf0cb74'
+    blue:    '0x689ef3'
+    magenta: '0xc782ec'
+    cyan:    '0x86e3e6'
+    white:   '0xf2f2f2'
+cursor:
+  style: Beam
+key_bindings:
+  # (Windows, Linux, and BSD only)
+  - { key: V,        mods: Control, action: Paste            }
+debug:
+  persistent_logging: false
+  log_level: Debug

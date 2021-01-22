@@ -1,0 +1,5 @@
+2021/01/05-00:30:02.498 5f4fd Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/05-00:30:13.236 6470d Level-0 table #5: started
+2021/01/05-00:30:13.254 6470d Level-0 table #5: 1241 bytes OK
+2021/01/05-00:30:13.262 6470d Delete type=0 #3
+2021/01/05-00:30:13.262 6470d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

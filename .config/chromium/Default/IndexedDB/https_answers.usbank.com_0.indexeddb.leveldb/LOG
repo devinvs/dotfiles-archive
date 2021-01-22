@@ -1,0 +1,8 @@
+2021/01/02-11:09:57.550 51c Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_answers.usbank.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/02-11:09:59.544 515 Level-0 table #5: started
+2021/01/02-11:09:59.552 515 Level-0 table #5: 216395 bytes OK
+2021/01/02-11:09:59.607 515 Delete type=0 #3
+2021/01/02-11:09:59.607 515 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/02-11:10:02.719 515 Level-0 table #7: started
+2021/01/02-11:10:02.740 515 Level-0 table #7: 1424731 bytes OK
+2021/01/02-11:10:02.746 515 Delete type=0 #4

@@ -1,0 +1,33 @@
+2021/01/20-11:37:14.556 4b3c Reusing MANIFEST /home/devin/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/01/20-11:37:14.556 4b3c Recovering log #911
+2021/01/20-11:37:14.557 4b3c Reusing old log /home/devin/.config/chromium/Default/Sync Data/LevelDB/000911.log 
+2021/01/20-12:03:18.716 60d2 Level-0 table #916: started
+2021/01/20-12:03:18.737 60d2 Level-0 table #916: 105256 bytes OK
+2021/01/20-12:03:18.749 60d2 Delete type=0 #911
+2021/01/20-12:37:03.200 81a5 Level-0 table #918: started
+2021/01/20-12:37:03.210 81a5 Level-0 table #918: 111344 bytes OK
+2021/01/20-12:37:03.219 81a5 Delete type=0 #915
+2021/01/20-13:33:35.962 c1c7 Level-0 table #920: started
+2021/01/20-13:33:35.968 c1c7 Level-0 table #920: 104889 bytes OK
+2021/01/20-13:33:35.981 c1c7 Delete type=0 #917
+2021/01/20-14:18:02.705 daf1 Level-0 table #922: started
+2021/01/20-14:18:02.726 daf1 Level-0 table #922: 100396 bytes OK
+2021/01/20-14:18:02.733 daf1 Delete type=0 #919
+2021/01/20-14:18:02.734 efa3 Compacting 4@0 + 1@1 files
+2021/01/20-14:18:02.745 efa3 Generated table #923@0: 1367 keys, 176791 bytes
+2021/01/20-14:18:02.745 efa3 Compacted 4@0 + 1@1 files => 176791 bytes
+2021/01/20-14:18:02.751 efa3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/20-14:18:02.752 efa3 Delete type=2 #913
+2021/01/20-14:18:02.752 efa3 Delete type=2 #916
+2021/01/20-14:18:02.752 efa3 Delete type=2 #918
+2021/01/20-14:18:02.752 efa3 Delete type=2 #920
+2021/01/20-14:18:02.752 efa3 Delete type=2 #922
+2021/01/20-16:05:32.250 1572d Level-0 table #925: started
+2021/01/20-16:05:32.276 1572d Level-0 table #925: 93220 bytes OK
+2021/01/20-16:05:32.284 1572d Delete type=0 #921
+2021/01/20-17:50:46.827 1ad6b Level-0 table #927: started
+2021/01/20-17:50:46.832 1ad6b Level-0 table #927: 112118 bytes OK
+2021/01/20-17:50:46.839 1ad6b Delete type=0 #924
+2021/01/20-22:43:11.442 27c9e Level-0 table #929: started
+2021/01/20-22:43:11.455 27c9e Level-0 table #929: 131056 bytes OK
+2021/01/20-22:43:11.462 27c9e Delete type=0 #926

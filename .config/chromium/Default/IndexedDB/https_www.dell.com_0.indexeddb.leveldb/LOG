@@ -1,0 +1,15 @@
+2020/11/23-21:15:43.492 ecd9 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.dell.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-21:15:43.492 ecd9 Recovering log #11
+2020/11/23-21:15:43.492 ecd9 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.dell.com_0.indexeddb.leveldb/000011.log 
+2020/11/23-21:15:48.493 ecd6 Level-0 table #16: started
+2020/11/23-21:15:48.511 ecd6 Level-0 table #16: 2881 bytes OK
+2020/11/23-21:15:48.520 ecd6 Delete type=0 #11
+2020/11/23-21:15:48.520 ecd6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-21:15:48.521 ecd6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01\x10\x003\x000\x004\x009\x002\x008\x007\x005\x007\x003\x007\x008\x004\x004\x008\x007\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x000\x004\x009\x002\x008\x007\x005\x007\x003\x007\x008\x004\x004\x008\x007\x00.\x001\x006\x000\x006\x001\x008\x004\x001\x004\x004\x009\x002\x003' @ 267 : 1
+2020/11/23-21:15:48.521 ecd6 Compacting 1@1 + 1@2 files
+2020/11/23-21:15:48.525 ecd6 Generated table #17@1: 34 keys, 1149 bytes
+2020/11/23-21:15:48.525 ecd6 Compacted 1@1 + 1@2 files => 1149 bytes
+2020/11/23-21:15:48.532 ecd6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-21:15:48.533 ecd6 Delete type=2 #13
+2020/11/23-21:15:48.533 ecd6 Delete type=2 #16
+2020/11/23-21:15:48.534 ecd6 Manual compaction at level-1 from '\x00\x01\x01\x1f\x01\x10\x003\x000\x004\x009\x002\x008\x007\x005\x007\x003\x007\x008\x004\x004\x008\x007\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x000\x004\x009\x002\x008\x007\x005\x007\x003\x007\x008\x004\x004\x008\x007\x00.\x001\x006\x000\x006\x001\x008\x004\x001\x004\x004\x009\x002\x003' @ 267 : 1 .. (end); will stop at (end)

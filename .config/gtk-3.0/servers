@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="smb:///%5C%5CHOMESERVER" added="2020-12-03T00:15:52.408430Z" modified="2020-12-03T00:23:47.182401Z" visited="2020-12-03T00:23:47.182399Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-12-03T00:23:47.182400Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb:///HOMESERVER" added="2020-12-03T00:20:22.989409Z" modified="2020-12-03T00:20:22.989414Z" visited="2020-12-03T00:20:22.989410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-12-03T00:20:22.989411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb:///" added="2020-12-03T00:20:23.028901Z" modified="2020-12-03T00:20:23.028904Z" visited="2020-12-03T00:20:23.028901Z">
+    <title>Windows Network</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-12-03T00:20:23.028902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://homeserver/music/" added="2020-12-03T00:28:35.648105Z" modified="2020-12-03T00:28:35.648108Z" visited="2020-12-03T00:28:35.648106Z">
+    <title>music on homeserver</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-12-03T00:28:35.648107Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://homeserver/documents/" added="2020-12-03T00:28:52.391774Z" modified="2020-12-03T00:28:52.391777Z" visited="2020-12-03T00:28:52.391775Z">
+    <title>documents on homeserver</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-12-03T00:28:52.391776Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://homeserver/photos/" added="2020-12-03T00:29:15.450277Z" modified="2020-12-03T00:29:15.450281Z" visited="2020-12-03T00:29:15.450278Z">
+    <title>photos on homeserver</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-12-03T00:29:15.450279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

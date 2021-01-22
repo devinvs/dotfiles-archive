@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/devin/.config/Code - OSS/User/workspaceStorage/4ac2cb04f29b294206f3a5b0288a2684/redhat.java/ss_ws/.metadata/.plugins/org.eclipse.jdt.core

@@ -1,0 +1,5 @@
+2020/12/10-01:53:59.293 daf71 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_betanews.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/10-01:54:26.817 daf71 Level-0 table #5: started
+2020/12/10-01:54:26.820 daf71 Level-0 table #5: 355 bytes OK
+2020/12/10-01:54:26.826 daf71 Delete type=0 #3
+2020/12/10-01:54:26.826 daf71 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

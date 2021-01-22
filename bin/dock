@@ -1,1 +1,7 @@
-xrandr --output DP-0.1 --auto --primary --pos 0x0 --scale 2x2 --output DP-0.2 --auto --pos 3840x0 --scale 2x2 --output DP-2 --off
+#!/bin/bash
+
+xrandr --output DP-0.2 --auto --primary --pos 0x0 --scale 2x2 --output DP-0.1 --auto --pos 3840x0 --scale 2x2 --output DP-2 --pos 7860x0
+
+feh --bg-scale ~/Pictures/Wallpapers/larry-chen-Nte-4RiRfwU-unsplash.jpg
+
+launch_polybar.sh

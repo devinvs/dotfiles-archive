@@ -1,0 +1,20 @@
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/devin/.vscode-oss/extensions/redhat.java-0.71.0/server/plugins/org.eclipse.equinox.launcher_1.6.0.v20200915-1508.jar -configuration /home/devin/.config/Code - OSS/User/globalStorage/redhat.java/0.71.0/config_ss_linux -data /home/devin/.config/Code - OSS/User/workspaceStorage/4ac2cb04f29b294206f3a5b0288a2684/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2020-12-03 13:55:23.295'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/devin/.vscode-oss/extensions/redhat.java-0.71.0/server/plugins/org.eclipse.equinox.launcher_1.6.0.v20200915-1508.jar -configuration /home/devin/.config/Code - OSS/User/globalStorage/redhat.java/0.71.0/config_linux -data /home/devin/.config/Code - OSS/User/workspaceStorage/4ac2cb04f29b294206f3a5b0288a2684/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2020-12-03 13:55:23.321'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2020-12-03 13:55:23.427'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2020-12-03 13:55:23.430'
+}

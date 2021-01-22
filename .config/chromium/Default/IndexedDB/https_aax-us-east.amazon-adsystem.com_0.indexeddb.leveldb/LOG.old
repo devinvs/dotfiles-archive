@@ -1,0 +1,8 @@
+2020/11/22-16:34:15.687 358b Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_aax-us-east.amazon-adsystem.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-16:34:15.687 358b Recovering log #7
+2020/11/22-16:34:15.688 358b Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_aax-us-east.amazon-adsystem.com_0.indexeddb.leveldb/000007.log 
+2020/11/22-16:34:21.728 1ac1 Level-0 table #11: started
+2020/11/22-16:34:21.728 1ac1 Level-0 table #11: 0 bytes OK
+2020/11/22-16:34:21.794 1ac1 Delete type=0 #7
+2020/11/22-16:34:21.794 1ac1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/22-16:34:21.794 1ac1 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

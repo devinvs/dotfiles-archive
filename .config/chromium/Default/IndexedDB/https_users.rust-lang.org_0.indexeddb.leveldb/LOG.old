@@ -1,0 +1,15 @@
+2020/12/15-17:14:35.997 1001 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_users.rust-lang.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/15-17:14:35.997 1001 Recovering log #4
+2020/12/15-17:14:35.997 1001 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_users.rust-lang.org_0.indexeddb.leveldb/000004.log 
+2020/12/15-17:15:38.801 814 Level-0 table #8: started
+2020/12/15-17:15:38.826 814 Level-0 table #8: 91074 bytes OK
+2020/12/15-17:15:38.835 814 Delete type=0 #4
+2020/12/15-17:15:38.836 814 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/15-17:15:38.836 814 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xa0\a\x8efwB\x00\x01G\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00v\x00a\x00t\x00a\x00r\x00s\x00.\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00v\x004\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00/\x00m\x00/\x003\x004\x00f\x000\x00e\x000\x00/\x004\x000\x00.\x00p\x00n\x00g' @ 2494 : 1
+2020/12/15-17:15:38.836 814 Compacting 1@1 + 1@2 files
+2020/12/15-17:15:38.846 814 Generated table #9@1: 322 keys, 42160 bytes
+2020/12/15-17:15:38.846 814 Compacted 1@1 + 1@2 files => 42160 bytes
+2020/12/15-17:15:38.854 814 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/15-17:15:38.854 814 Delete type=2 #5
+2020/12/15-17:15:38.854 814 Delete type=2 #8
+2020/12/15-17:15:38.855 814 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xa0\a\x8efwB\x00\x01G\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00a\x00v\x00a\x00t\x00a\x00r\x00s\x00.\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00v\x004\x00/\x00l\x00e\x00t\x00t\x00e\x00r\x00/\x00m\x00/\x003\x004\x00f\x000\x00e\x000\x00/\x004\x000\x00.\x00p\x00n\x00g' @ 2494 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2021/01/06-18:16:30.032 178ea Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.ubuntupit.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/06-18:16:32.456 1a8ff Level-0 table #5: started
+2021/01/06-18:16:32.460 1a8ff Level-0 table #5: 365 bytes OK
+2021/01/06-18:16:32.555 1a8ff Delete type=0 #3
+2021/01/06-18:16:32.555 1a8ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

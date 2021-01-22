@@ -1,0 +1,5 @@
+2020/11/21-20:56:15.180 18aa2 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_ad.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/21-20:56:46.039 18aa2 Level-0 table #5: started
+2020/11/21-20:56:46.058 18aa2 Level-0 table #5: 346 bytes OK
+2020/11/21-20:56:46.066 18aa2 Delete type=0 #3
+2020/11/21-20:56:46.067 18aa2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

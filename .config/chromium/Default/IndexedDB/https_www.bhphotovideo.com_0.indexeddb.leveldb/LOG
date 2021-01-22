@@ -1,0 +1,5 @@
+2020/12/27-18:20:54.169 6b46 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.bhphotovideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/27-18:21:28.244 6979 Level-0 table #5: started
+2020/12/27-18:21:28.262 6979 Level-0 table #5: 3424 bytes OK
+2020/12/27-18:21:28.270 6979 Delete type=0 #3
+2020/12/27-18:21:28.271 6979 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

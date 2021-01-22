@@ -1,0 +1,7 @@
+2021/01/20-13:57:39.505 dabf Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-13:57:39.505 dabf Recovering log #3
+2021/01/20-13:57:39.508 dabf Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/01/20-14:18:05.867 eae1 Level-0 table #5: started
+2021/01/20-14:18:05.871 eae1 Level-0 table #5: 2605 bytes OK
+2021/01/20-14:18:05.879 eae1 Delete type=0 #3
+2021/01/20-14:18:05.879 eae1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

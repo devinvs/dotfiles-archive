@@ -1,0 +1,44 @@
+# settings
+
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 18:35:52"
+    (time 1606786552)
+    (whirl 753.29999999999995)
+    (pinch 1)
+    (radius 2))
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 18:33:24"
+    (time 1606786404)
+    (whirl 550)
+    (pinch 0.72699999999999998)
+    (radius 1.5649999999999999))
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 18:31:03"
+    (time 1606786263)
+    (whirl 260)
+    (pinch 0.85199999999999998)
+    (radius 2))
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 18:27:36"
+    (time 1606786056)
+    (whirl 580)
+    (pinch 0.37)
+    (radius 1.6060000000000001))
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 18:16:51"
+    (time 1606785411)
+    (whirl 1396.7)
+    (pinch 0.42099999999999999)
+    (radius 2))
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 18:11:00"
+    (time 1606785060)
+    (whirl 483.30000000000001)
+    (pinch 0.495)
+    (radius 2))
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 17:10:17"
+    (time 1606781417)
+    (whirl 396.69999999999999)
+    (pinch 0.94899999999999995)
+    (radius 2))
+(GimpGegl-gegl-whirl-pinch-config "2020-11-30 14:31:19"
+    (time 1606771879)
+    (whirl 580)
+    (pinch 0.52800000000000002)
+    (radius 2))
+
+# end of settings

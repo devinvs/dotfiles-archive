@@ -1,0 +1,15 @@
+2020/12/09-00:39:45.071 179dc Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.pcmag.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/09-00:39:45.071 179dc Recovering log #7
+2020/12/09-00:39:45.071 179dc Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.pcmag.com_0.indexeddb.leveldb/000007.log 
+2020/12/09-00:40:03.521 18bc0 Level-0 table #12: started
+2020/12/09-00:40:03.524 18bc0 Level-0 table #12: 3031 bytes OK
+2020/12/09-00:40:03.531 18bc0 Delete type=0 #7
+2020/12/09-00:40:03.531 18bc0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/09-00:40:03.531 18bc0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 403 : 1
+2020/12/09-00:40:03.531 18bc0 Compacting 1@1 + 1@2 files
+2020/12/09-00:40:03.535 18bc0 Generated table #13@1: 97 keys, 2084 bytes
+2020/12/09-00:40:03.535 18bc0 Compacted 1@1 + 1@2 files => 2084 bytes
+2020/12/09-00:40:03.541 18bc0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/09-00:40:03.541 18bc0 Delete type=2 #9
+2020/12/09-00:40:03.541 18bc0 Delete type=2 #12
+2020/12/09-00:40:03.542 18bc0 Manual compaction at level-1 from '\x00\x02\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 403 : 1 .. (end); will stop at (end)

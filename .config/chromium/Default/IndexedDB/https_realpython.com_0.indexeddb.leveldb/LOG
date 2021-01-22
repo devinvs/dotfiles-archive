@@ -1,0 +1,15 @@
+2020/12/30-22:16:08.010 1a58 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_realpython.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/30-22:16:08.011 1a58 Recovering log #7
+2020/12/30-22:16:08.011 1a58 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_realpython.com_0.indexeddb.leveldb/000007.log 
+2020/12/30-22:23:14.179 276a Level-0 table #12: started
+2020/12/30-22:23:14.187 276a Level-0 table #12: 3023 bytes OK
+2020/12/30-22:23:14.195 276a Delete type=0 #7
+2020/12/30-22:23:14.196 276a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/30-22:23:14.196 276a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 535 : 1
+2020/12/30-22:23:14.196 276a Compacting 1@1 + 1@2 files
+2020/12/30-22:23:14.200 276a Generated table #13@1: 97 keys, 2028 bytes
+2020/12/30-22:23:14.200 276a Compacted 1@1 + 1@2 files => 2028 bytes
+2020/12/30-22:23:14.208 276a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/30-22:23:14.208 276a Delete type=2 #9
+2020/12/30-22:23:14.208 276a Delete type=2 #12
+2020/12/30-22:23:14.209 276a Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 535 : 1 .. (end); will stop at (end)

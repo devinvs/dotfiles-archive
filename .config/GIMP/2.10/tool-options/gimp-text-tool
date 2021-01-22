@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(palette "Color History")
+(font "Roboto")
+(font-size 240)
+(justify center)
+(indent 3)
+(box-mode fixed)
+
+# end of gimp-text-tool options

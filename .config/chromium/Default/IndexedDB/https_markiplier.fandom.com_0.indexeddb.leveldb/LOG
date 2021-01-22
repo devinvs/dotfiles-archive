@@ -1,0 +1,15 @@
+2021/01/08-14:04:50.506 15dc92 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_markiplier.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/08-14:04:50.506 15dc92 Recovering log #4
+2021/01/08-14:04:50.506 15dc92 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_markiplier.fandom.com_0.indexeddb.leveldb/000004.log 
+2021/01/08-14:10:11.362 15dc92 Level-0 table #8: started
+2021/01/08-14:10:11.370 15dc92 Level-0 table #8: 44173 bytes OK
+2021/01/08-14:10:11.378 15dc92 Delete type=0 #4
+2021/01/08-14:10:11.378 15dc92 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/08-14:10:11.378 15dc92 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 128 : 1
+2021/01/08-14:10:11.378 15dc92 Compacting 1@1 + 1@2 files
+2021/01/08-14:10:11.383 15dc92 Generated table #9@1: 31 keys, 8386 bytes
+2021/01/08-14:10:11.383 15dc92 Compacted 1@1 + 1@2 files => 8386 bytes
+2021/01/08-14:10:11.390 15dc92 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/08-14:10:11.391 15dc92 Delete type=2 #5
+2021/01/08-14:10:11.391 15dc92 Delete type=2 #8
+2021/01/08-14:10:11.391 15dc92 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 128 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/12/18-14:49:08.772 182034 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_blog.maximeheckel.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-14:49:51.009 182034 Level-0 table #5: started
+2020/12/18-14:49:51.012 182034 Level-0 table #5: 5591 bytes OK
+2020/12/18-14:49:51.021 182034 Delete type=0 #3
+2020/12/18-14:49:51.021 182034 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

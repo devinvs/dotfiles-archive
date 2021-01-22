@@ -1,0 +1,15 @@
+2021/01/06-22:59:10.089 47962 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/06-22:59:10.089 47962 Recovering log #18
+2021/01/06-22:59:10.089 47962 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/000018.log 
+2021/01/11-11:53:29.729 2e9f7e Level-0 table #22: started
+2021/01/11-11:53:29.734 2e9f7e Level-0 table #22: 190 bytes OK
+2021/01/11-11:53:29.741 2e9f7e Delete type=0 #18
+2021/01/11-11:53:29.741 2e9f7e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/11-11:53:29.741 2e9f7e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 1923 : 1
+2021/01/11-11:53:29.741 2e9f7e Compacting 1@1 + 1@2 files
+2021/01/11-11:53:29.744 2e9f7e Generated table #23@1: 83 keys, 2697 bytes
+2021/01/11-11:53:29.744 2e9f7e Compacted 1@1 + 1@2 files => 2697 bytes
+2021/01/11-11:53:29.750 2e9f7e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/11-11:53:29.751 2e9f7e Delete type=2 #16
+2021/01/11-11:53:29.751 2e9f7e Delete type=2 #22
+2021/01/11-11:53:29.751 2e9f7e Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 1923 : 1 .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/11/22-16:42:17.328 358b Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-16:42:17.329 358b Recovering log #25
+2020/11/22-16:42:17.329 358b Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/000025.log 
+2020/11/22-17:02:59.866 5277 Level-0 table #32: started
+2020/11/22-17:02:59.866 5277 Level-0 table #32: 0 bytes OK
+2020/11/22-17:02:59.889 5277 Delete type=0 #25
+2020/11/22-17:02:59.889 5277 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/22-17:02:59.889 5277 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/12/31-22:51:47.359 9678 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.techradar.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/31-22:51:47.359 9678 Recovering log #4
+2020/12/31-22:51:47.359 9678 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.techradar.com_0.indexeddb.leveldb/000004.log 
+2020/12/31-22:52:11.359 9667 Level-0 table #8: started
+2020/12/31-22:52:11.368 9667 Level-0 table #8: 3053 bytes OK
+2020/12/31-22:52:11.376 9667 Delete type=0 #4
+2020/12/31-22:52:11.377 9667 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/31-22:52:11.377 9667 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\x05' @ 623 : 1
+2020/12/31-22:52:11.377 9667 Compacting 1@1 + 1@2 files
+2020/12/31-22:52:11.382 9667 Generated table #9@1: 96 keys, 1995 bytes
+2020/12/31-22:52:11.382 9667 Compacted 1@1 + 1@2 files => 1995 bytes
+2020/12/31-22:52:11.389 9667 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/31-22:52:11.390 9667 Delete type=2 #5
+2020/12/31-22:52:11.390 9667 Delete type=2 #8
+2020/12/31-22:52:11.390 9667 Manual compaction at level-1 from '\x00\x02\x00\x00\x05' @ 623 : 1 .. (end); will stop at (end)

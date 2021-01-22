@@ -1,0 +1,5 @@
+2020/11/21-15:56:54.790 a126 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_s.brightspace.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/21-15:57:14.168 a126 Level-0 table #5: started
+2020/11/21-15:57:14.186 a126 Level-0 table #5: 847 bytes OK
+2020/11/21-15:57:14.197 a126 Delete type=0 #3
+2020/11/21-15:57:14.199 a126 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

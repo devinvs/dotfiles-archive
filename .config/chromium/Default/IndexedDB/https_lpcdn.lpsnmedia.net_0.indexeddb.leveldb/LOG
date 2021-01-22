@@ -1,0 +1,15 @@
+2021/01/14-12:07:16.080 1a1933 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/14-12:07:16.080 1a1933 Recovering log #63
+2021/01/14-12:07:16.080 1a1933 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000063.log 
+2021/01/14-12:55:20.104 1a8120 Level-0 table #68: started
+2021/01/14-12:55:20.127 1a8120 Level-0 table #68: 76867 bytes OK
+2021/01/14-12:55:20.134 1a8120 Delete type=0 #63
+2021/01/14-12:55:20.135 1a8120 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/14-12:55:20.135 1a8120 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x006\x000\x002\x007\x000\x003\x005\x000' @ 15630 : 1
+2021/01/14-12:55:20.135 1a8120 Compacting 1@1 + 1@2 files
+2021/01/14-12:55:20.142 1a8120 Generated table #69@1: 28 keys, 1227 bytes
+2021/01/14-12:55:20.142 1a8120 Compacted 1@1 + 1@2 files => 1227 bytes
+2021/01/14-12:55:20.152 1a8120 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/14-12:55:20.153 1a8120 Delete type=2 #65
+2021/01/14-12:55:20.153 1a8120 Delete type=2 #68
+2021/01/14-12:55:20.153 1a8120 Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x006\x000\x002\x007\x000\x003\x005\x000' @ 15630 : 1 .. (end); will stop at (end)

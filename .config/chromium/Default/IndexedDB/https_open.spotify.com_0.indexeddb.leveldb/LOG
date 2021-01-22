@@ -1,0 +1,5 @@
+2020/11/30-14:43:54.816 bf996 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-14:44:51.094 be812 Level-0 table #5: started
+2020/11/30-14:44:51.107 be812 Level-0 table #5: 124197 bytes OK
+2020/11/30-14:44:51.115 be812 Delete type=0 #3
+2020/11/30-14:44:51.115 be812 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,11 @@
+2021/01/20-12:46:46.534 8cab Recovering log #962
+2021/01/20-12:46:46.534 8cab Level-0 table #966: started
+2021/01/20-12:46:46.538 8cab Level-0 table #966: 2085 bytes OK
+2021/01/20-12:46:46.600 8cab Delete type=3 #941
+2021/01/20-12:46:46.600 8cab Delete type=0 #962
+2021/01/20-14:00:08.357 dabf Level-0 table #969: started
+2021/01/20-14:00:08.367 dabf Level-0 table #969: 26128 bytes OK
+2021/01/20-14:00:08.375 dabf Delete type=0 #967
+2021/01/20-16:07:08.184 159d9 Level-0 table #971: started
+2021/01/20-16:07:08.193 159d9 Level-0 table #971: 22428 bytes OK
+2021/01/20-16:07:08.243 159d9 Delete type=0 #968

@@ -1,0 +1,7 @@
+2021/01/05-12:06:16.974 ae178 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.theverge.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/05-12:06:16.974 ae178 Recovering log #3
+2021/01/05-12:06:16.978 ae178 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.theverge.com_0.indexeddb.leveldb/000003.log 
+2021/01/05-12:07:39.534 accef Level-0 table #5: started
+2021/01/05-12:07:39.562 accef Level-0 table #5: 3187438 bytes OK
+2021/01/05-12:07:39.572 accef Delete type=0 #3
+2021/01/05-12:07:39.574 accef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

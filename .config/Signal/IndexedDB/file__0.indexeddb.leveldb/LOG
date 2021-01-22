@@ -1,0 +1,7 @@
+2021/01/13-21:21:49.293 13e278 Reusing MANIFEST /home/devin/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/01/13-21:21:49.293 13e278 Recovering log #4
+2021/01/13-21:21:49.293 13e278 Reusing old log /home/devin/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2021/01/13-21:21:49.378 13e27d Level-0 table #8: started
+2021/01/13-21:21:49.384 13e27d Level-0 table #8: 469 bytes OK
+2021/01/13-21:21:49.408 13e27d Delete type=0 #4
+2021/01/13-21:21:49.408 13e27d Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,5 @@
+2021/01/16-18:20:07.404 312489 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.nowinstock.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/16-18:20:12.010 312489 Level-0 table #5: started
+2021/01/16-18:20:12.015 312489 Level-0 table #5: 1029 bytes OK
+2021/01/16-18:20:12.021 312489 Delete type=0 #3
+2021/01/16-18:20:12.021 312489 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

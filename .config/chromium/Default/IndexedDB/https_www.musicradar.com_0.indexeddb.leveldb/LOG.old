@@ -1,0 +1,5 @@
+2020/12/31-22:50:48.254 9677 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.musicradar.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/31-22:50:52.223 9678 Level-0 table #5: started
+2020/12/31-22:50:52.229 9678 Level-0 table #5: 346 bytes OK
+2020/12/31-22:50:52.236 9678 Delete type=0 #3
+2020/12/31-22:50:52.236 9678 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

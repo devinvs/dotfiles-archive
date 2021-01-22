@@ -1,0 +1,8 @@
+2020/12/06-21:21:13.510 7d659 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_play.geforcenow.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/06-21:21:13.510 7d659 Recovering log #27
+2020/12/06-21:21:13.510 7d659 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_play.geforcenow.com_0.indexeddb.leveldb/000027.log 
+2020/12/06-21:21:15.516 7d649 Level-0 table #31: started
+2020/12/06-21:21:15.516 7d649 Level-0 table #31: 0 bytes OK
+2020/12/06-21:21:15.546 7d649 Delete type=0 #27
+2020/12/06-21:21:15.546 7d649 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/06-21:21:15.546 7d649 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

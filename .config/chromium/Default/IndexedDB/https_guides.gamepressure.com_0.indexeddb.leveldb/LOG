@@ -1,0 +1,5 @@
+2020/12/20-16:35:55.953 651 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_guides.gamepressure.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/20-16:35:59.352 651 Level-0 table #5: started
+2020/12/20-16:35:59.358 651 Level-0 table #5: 356 bytes OK
+2020/12/20-16:35:59.504 651 Delete type=0 #3
+2020/12/20-16:35:59.504 651 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/01/20-16:04:17.195 156d0 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_portal.azure.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-16:04:17.195 156d0 Recovering log #126
+2021/01/20-16:04:17.195 156d0 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_portal.azure.com_0.indexeddb.leveldb/000126.log 
+2021/01/20-16:04:20.384 15204 Level-0 table #131: started
+2021/01/20-16:04:20.387 15204 Level-0 table #131: 190 bytes OK
+2021/01/20-16:04:20.468 15204 Delete type=0 #126
+2021/01/20-16:04:20.468 15204 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/20-16:04:20.468 15204 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 516 : 1
+2021/01/20-16:04:20.468 15204 Compacting 1@1 + 1@2 files
+2021/01/20-16:04:20.472 15204 Generated table #132@1: 148 keys, 1919 bytes
+2021/01/20-16:04:20.472 15204 Compacted 1@1 + 1@2 files => 1919 bytes
+2021/01/20-16:04:20.479 15204 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-16:04:20.479 15204 Delete type=2 #128
+2021/01/20-16:04:20.479 15204 Delete type=2 #131
+2021/01/20-16:04:20.480 15204 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 516 : 1 .. (end); will stop at (end)

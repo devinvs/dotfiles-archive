@@ -1,0 +1,27 @@
+2021/01/21-12:45:59.622 3 Reusing MANIFEST /home/devin/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/21-12:45:59.623 3 Recovering log #1449
+2021/01/21-12:45:59.624 3 Reusing old log /home/devin/.config/chromium/Default/Local Storage/leveldb/001449.log 
+2021/01/21-14:12:02.670 5a Level-0 table #1453: started
+2021/01/21-14:12:02.693 5a Level-0 table #1453: 21748 bytes OK
+2021/01/21-14:12:02.707 5a Delete type=0 #1449
+2021/01/21-14:12:02.708 55 Compacting 4@0 + 4@1 files
+2021/01/21-14:12:02.773 55 Generated table #1454@0: 1848 keys, 2371380 bytes
+2021/01/21-14:12:02.805 55 Generated table #1455@0: 1014 keys, 2105710 bytes
+2021/01/21-14:12:02.831 55 Generated table #1456@0: 1625 keys, 2112136 bytes
+2021/01/21-14:12:02.841 55 Generated table #1457@0: 341 keys, 381138 bytes
+2021/01/21-14:12:02.841 55 Compacted 4@0 + 4@1 files => 6970364 bytes
+2021/01/21-14:12:02.848 55 compacted to: files[ 0 4 0 0 0 0 0 ]
+2021/01/21-14:12:02.849 55 Delete type=2 #1441
+2021/01/21-14:12:02.849 55 Delete type=2 #1442
+2021/01/21-14:12:02.849 55 Delete type=2 #1443
+2021/01/21-14:12:02.849 55 Delete type=2 #1444
+2021/01/21-14:12:02.849 55 Delete type=2 #1446
+2021/01/21-14:12:02.849 55 Delete type=2 #1448
+2021/01/21-14:12:02.849 55 Delete type=2 #1450
+2021/01/21-14:12:02.849 55 Delete type=2 #1453
+2021/01/21-14:44:50.710 7c Level-0 table #1459: started
+2021/01/21-14:44:50.720 7c Level-0 table #1459: 40295 bytes OK
+2021/01/21-14:44:50.734 7c Delete type=0 #1452
+2021/01/21-17:00:15.820 c7 Level-0 table #1461: started
+2021/01/21-17:00:15.825 c7 Level-0 table #1461: 17467 bytes OK
+2021/01/21-17:00:15.833 c7 Delete type=0 #1458

@@ -1,0 +1,5 @@
+2020/12/23-17:07:02.090 13c0e0 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_get-mcd.superhotgame.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/23-17:08:07.128 13bce1 Level-0 table #5: started
+2020/12/23-17:08:07.132 13bce1 Level-0 table #5: 3169 bytes OK
+2020/12/23-17:08:07.142 13bce1 Delete type=0 #3
+2020/12/23-17:08:07.142 13bce1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

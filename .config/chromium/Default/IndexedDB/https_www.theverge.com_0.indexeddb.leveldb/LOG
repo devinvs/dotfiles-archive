@@ -1,0 +1,15 @@
+2021/01/09-14:15:11.540 20bd69 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.theverge.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/09-14:15:11.540 20bd69 Recovering log #4
+2021/01/09-14:15:11.540 20bd69 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.theverge.com_0.indexeddb.leveldb/000004.log 
+2021/01/09-14:15:38.880 20bd6a Level-0 table #8: started
+2021/01/09-14:15:38.905 20bd6a Level-0 table #8: 807984 bytes OK
+2021/01/09-14:15:38.995 20bd6a Delete type=0 #4
+2021/01/09-14:15:38.995 20bd6a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/09-14:15:38.995 20bd6a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 792 : 1
+2021/01/09-14:15:38.995 20bd6a Compacting 1@1 + 1@2 files
+2021/01/09-14:15:39.000 20bd6a Generated table #9@1: 33 keys, 60965 bytes
+2021/01/09-14:15:39.000 20bd6a Compacted 1@1 + 1@2 files => 60965 bytes
+2021/01/09-14:15:39.006 20bd6a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/09-14:15:39.006 20bd6a Delete type=2 #5
+2021/01/09-14:15:39.006 20bd6a Delete type=2 #8
+2021/01/09-14:15:39.007 20bd6a Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 792 : 1 .. (end); will stop at (end)

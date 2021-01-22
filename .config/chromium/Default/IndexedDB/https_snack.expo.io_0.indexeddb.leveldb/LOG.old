@@ -1,0 +1,8 @@
+2020/12/18-13:35:08.462 175ee1 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_snack.expo.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-13:35:08.462 175ee1 Recovering log #4
+2020/12/18-13:35:08.462 175ee1 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_snack.expo.io_0.indexeddb.leveldb/000004.log 
+2020/12/18-13:36:34.817 175129 Level-0 table #8: started
+2020/12/18-13:36:34.817 175129 Level-0 table #8: 0 bytes OK
+2020/12/18-13:36:34.828 175129 Delete type=0 #4
+2020/12/18-13:36:34.828 175129 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/18-13:36:34.828 175129 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

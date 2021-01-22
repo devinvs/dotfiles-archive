@@ -1,3 +1,5 @@
+#!/bin/bash
+
 NUM_MONS=$(xrandr --listmonitors | head -n 1 | cut -d' ' -f2)
 
 if [ $NUM_MONS -gt 1 ]

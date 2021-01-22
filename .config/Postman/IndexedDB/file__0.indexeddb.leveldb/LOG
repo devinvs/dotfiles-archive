@@ -1,0 +1,14 @@
+2021/01/15-14:26:14.963 25a266 Reusing MANIFEST /home/devin/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/01/15-14:26:14.963 25a266 Recovering log #28
+2021/01/15-14:26:14.969 25a266 Reusing old log /home/devin/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000028.log 
+2021/01/15-14:26:14.969 25a266 Delete type=2 #26
+2021/01/15-14:26:22.888 25a3dd Level-0 table #33: started
+2021/01/15-14:26:22.894 25a3dd Level-0 table #33: 184944 bytes OK
+2021/01/15-14:26:22.916 25a3dd Delete type=0 #28
+2021/01/15-14:26:22.917 25a3dd Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 9184 : 1
+2021/01/15-14:26:22.917 25a3dd Compacting 1@0 + 1@1 files
+2021/01/15-14:26:22.923 25a3dd Generated table #34@0: 3954 keys, 99685 bytes
+2021/01/15-14:26:22.923 25a3dd Compacted 1@0 + 1@1 files => 99685 bytes
+2021/01/15-14:26:22.929 25a3dd compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/15-14:26:22.929 25a3dd Delete type=2 #33
+2021/01/15-14:26:22.929 25a3dd Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 9184 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

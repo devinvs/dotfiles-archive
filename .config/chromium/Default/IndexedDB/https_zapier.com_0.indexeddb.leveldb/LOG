@@ -1,0 +1,15 @@
+2020/12/09-16:36:24.928 80eb6 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_zapier.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/09-16:36:24.928 80eb6 Recovering log #7
+2020/12/09-16:36:24.928 80eb6 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_zapier.com_0.indexeddb.leveldb/000007.log 
+2020/12/09-16:42:31.543 80eb6 Level-0 table #11: started
+2020/12/09-16:42:31.561 80eb6 Level-0 table #11: 42556 bytes OK
+2020/12/09-16:42:31.568 80eb6 Delete type=0 #7
+2020/12/09-16:42:31.568 80eb6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/09-16:42:31.568 80eb6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01;\x00F\x00u\x00l\x00l\x00S\x00e\x00r\x00v\x00i\x00c\x00e\x00Q\x00u\x00e\x00r\x00y\x00:\x00[\x00[\x00"\x00_\x00_\x00c\x00a\x00c\x00h\x00e\x00Q\x00u\x00e\x00r\x00y\x00"\x00,\x00t\x00r\x00u\x00e\x00]\x00,\x00[\x00"\x00i\x00d\x00"\x00,\x00"\x00T\x00r\x00e\x00l\x00l\x00o\x00A\x00P\x00I\x00"\x00]\x00]' @ 61 : 1
+2020/12/09-16:42:31.568 80eb6 Compacting 1@1 + 1@2 files
+2020/12/09-16:42:31.572 80eb6 Generated table #12@1: 21 keys, 14493 bytes
+2020/12/09-16:42:31.572 80eb6 Compacted 1@1 + 1@2 files => 14493 bytes
+2020/12/09-16:42:31.586 80eb6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/09-16:42:31.587 80eb6 Delete type=2 #5
+2020/12/09-16:42:31.587 80eb6 Delete type=2 #11
+2020/12/09-16:42:31.587 80eb6 Manual compaction at level-1 from '\x00\x01\x01\x02\x01;\x00F\x00u\x00l\x00l\x00S\x00e\x00r\x00v\x00i\x00c\x00e\x00Q\x00u\x00e\x00r\x00y\x00:\x00[\x00[\x00"\x00_\x00_\x00c\x00a\x00c\x00h\x00e\x00Q\x00u\x00e\x00r\x00y\x00"\x00,\x00t\x00r\x00u\x00e\x00]\x00,\x00[\x00"\x00i\x00d\x00"\x00,\x00"\x00T\x00r\x00e\x00l\x00l\x00o\x00A\x00P\x00I\x00"\x00]\x00]' @ 61 : 1 .. (end); will stop at (end)

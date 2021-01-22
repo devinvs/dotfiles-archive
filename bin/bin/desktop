@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ "$1" = "next" ]; then
+    bspc desktop -f next
+    /home/devin/bin/wallchange
+elif [ "$1" = "prev" ]; then
+    bspc desktop -f prev
+    /home/devin/bin/wallchange
+fi

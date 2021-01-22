@@ -1,0 +1,15 @@
+2021/01/19-18:34:11.899 1a4b2 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_s.0cf.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/19-18:34:11.899 1a4b2 Recovering log #4
+2021/01/19-18:34:11.899 1a4b2 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_s.0cf.io_0.indexeddb.leveldb/000004.log 
+2021/01/19-18:34:43.917 183d5 Level-0 table #8: started
+2021/01/19-18:34:43.924 183d5 Level-0 table #8: 936 bytes OK
+2021/01/19-18:34:43.931 183d5 Delete type=0 #4
+2021/01/19-18:34:43.932 183d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/19-18:34:43.932 183d5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x07\x00u\x00n\x00i\x00s\x00y\x00n\x00c' @ 205 : 1
+2021/01/19-18:34:43.932 183d5 Compacting 1@1 + 1@2 files
+2021/01/19-18:34:43.936 183d5 Generated table #9@1: 29 keys, 1306 bytes
+2021/01/19-18:34:43.936 183d5 Compacted 1@1 + 1@2 files => 1306 bytes
+2021/01/19-18:34:43.943 183d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/19-18:34:43.943 183d5 Delete type=2 #5
+2021/01/19-18:34:43.943 183d5 Delete type=2 #8
+2021/01/19-18:34:43.944 183d5 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x07\x00u\x00n\x00i\x00s\x00y\x00n\x00c' @ 205 : 1 .. (end); will stop at (end)

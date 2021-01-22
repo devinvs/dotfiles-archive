@@ -1,0 +1,5 @@
+2020/12/12-13:21:31.718 26cf1f Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_vulkan-tutorial.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/12-13:21:41.651 26cf1f Level-0 table #5: started
+2020/12/12-13:21:41.654 26cf1f Level-0 table #5: 369 bytes OK
+2020/12/12-13:21:41.659 26cf1f Delete type=0 #3
+2020/12/12-13:21:41.660 26cf1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

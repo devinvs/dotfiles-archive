@@ -1,0 +1,30 @@
+2021/01/21-12:46:03.049 666 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/21-12:46:03.049 666 Recovering log #275
+2021/01/21-12:46:03.057 666 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000275.log 
+2021/01/21-13:11:21.641 598 Level-0 table #280: started
+2021/01/21-13:11:21.684 598 Level-0 table #280: 2533748 bytes OK
+2021/01/21-13:11:21.692 598 Delete type=0 #275
+2021/01/21-13:15:29.632 598 Compacting 1@1 + 1@2 files
+2021/01/21-13:15:29.649 598 Generated table #281@1: 68 keys, 28299 bytes
+2021/01/21-13:15:29.649 598 Compacted 1@1 + 1@2 files => 28299 bytes
+2021/01/21-13:15:29.657 598 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/21-13:15:29.657 598 Delete type=2 #277
+2021/01/21-13:15:29.657 598 Delete type=2 #280
+2021/01/21-13:59:24.239 37ec Level-0 table #283: started
+2021/01/21-13:59:24.281 37ec Level-0 table #283: 2320029 bytes OK
+2021/01/21-13:59:24.289 37ec Delete type=0 #279
+2021/01/21-14:06:08.258 25b5 Compacting 1@1 + 1@2 files
+2021/01/21-14:06:08.276 25b5 Generated table #284@1: 67 keys, 28556 bytes
+2021/01/21-14:06:08.276 25b5 Compacted 1@1 + 1@2 files => 28556 bytes
+2021/01/21-14:06:08.287 25b5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/21-14:06:08.287 25b5 Delete type=2 #281
+2021/01/21-14:06:08.287 25b5 Delete type=2 #283
+2021/01/21-15:31:03.135 7fbb Level-0 table #286: started
+2021/01/21-15:31:03.181 7fbb Level-0 table #286: 2189772 bytes OK
+2021/01/21-15:31:03.192 7fbb Delete type=0 #282
+2021/01/21-17:44:32.633 12cfc Compacting 1@1 + 1@2 files
+2021/01/21-17:44:32.644 12cfc Generated table #287@1: 67 keys, 43361 bytes
+2021/01/21-17:44:32.645 12cfc Compacted 1@1 + 1@2 files => 43361 bytes
+2021/01/21-17:44:32.651 12cfc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/21-17:44:32.651 12cfc Delete type=2 #284
+2021/01/21-17:44:32.651 12cfc Delete type=2 #286

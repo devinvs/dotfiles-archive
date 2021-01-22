@@ -1,0 +1,15 @@
+2020/12/13-01:17:22.467 2e5cf5 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.disneyplus.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/13-01:17:22.467 2e5cf5 Recovering log #4
+2020/12/13-01:17:22.467 2e5cf5 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.disneyplus.com_0.indexeddb.leveldb/000004.log 
+2020/12/13-13:46:50.122 334e81 Level-0 table #8: started
+2020/12/13-13:46:50.125 334e81 Level-0 table #8: 851 bytes OK
+2020/12/13-13:46:50.132 334e81 Delete type=0 #4
+2020/12/13-13:46:50.132 334e81 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/13-13:46:50.132 334e81 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 228 : 1
+2020/12/13-13:46:50.132 334e81 Compacting 1@1 + 1@2 files
+2020/12/13-13:46:50.137 334e81 Generated table #9@1: 68 keys, 1389 bytes
+2020/12/13-13:46:50.137 334e81 Compacted 1@1 + 1@2 files => 1389 bytes
+2020/12/13-13:46:50.144 334e81 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/13-13:46:50.144 334e81 Delete type=2 #5
+2020/12/13-13:46:50.144 334e81 Delete type=2 #8
+2020/12/13-13:46:50.145 334e81 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 228 : 1 .. (end); will stop at (end)

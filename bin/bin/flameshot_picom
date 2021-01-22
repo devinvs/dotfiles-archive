@@ -1,0 +1,5 @@
+#!/bin/bash
+
+trap "i3-msg exec 'picom -f --experimental-backends'" EXIT
+flameshot gui
+sleep 2

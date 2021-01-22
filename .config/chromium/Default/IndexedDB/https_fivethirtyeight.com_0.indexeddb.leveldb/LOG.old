@@ -1,0 +1,8 @@
+2020/12/15-13:31:37.920 16efd Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_fivethirtyeight.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/15-13:31:37.920 16efd Recovering log #7
+2020/12/15-13:31:37.920 16efd Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_fivethirtyeight.com_0.indexeddb.leveldb/000007.log 
+2020/12/15-13:31:40.622 1738a Level-0 table #11: started
+2020/12/15-13:31:40.622 1738a Level-0 table #11: 0 bytes OK
+2020/12/15-13:31:40.649 1738a Delete type=0 #7
+2020/12/15-13:31:40.649 1738a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/15-13:31:40.649 1738a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

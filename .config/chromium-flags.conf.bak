@@ -1,0 +1,8 @@
+--ignore-gpu-blacklist
+--enable-gpu-rasterization
+--disable-gpu-driver-bug-workarounds
+--use-gl=desktop
+--enable-zero-copy
+--enable-accelerated-video-decode
+--disable-gpu-vsync
+--disable-frame-rate-limit

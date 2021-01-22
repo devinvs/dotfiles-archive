@@ -1,0 +1,8 @@
+2020/11/24-01:31:59.008 49bd Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.slader.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/24-01:31:59.009 49bd Recovering log #7
+2020/11/24-01:31:59.009 49bd Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.slader.com_0.indexeddb.leveldb/000007.log 
+2020/11/24-01:32:03.319 49bd Level-0 table #11: started
+2020/11/24-01:32:03.320 49bd Level-0 table #11: 0 bytes OK
+2020/11/24-01:32:03.368 49bd Delete type=0 #7
+2020/11/24-01:32:03.368 49bd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/24-01:32:03.368 49bd Manual compaction at level-1 from (begin) .. (end); will stop at (end)

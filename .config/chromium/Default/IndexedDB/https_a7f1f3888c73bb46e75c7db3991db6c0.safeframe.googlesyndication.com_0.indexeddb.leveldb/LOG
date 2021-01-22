@@ -1,0 +1,15 @@
+2020/12/04-14:51:06.527 44df Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_a7f1f3888c73bb46e75c7db3991db6c0.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-14:51:06.527 44df Recovering log #46
+2020/12/04-14:51:06.527 44df Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_a7f1f3888c73bb46e75c7db3991db6c0.safeframe.googlesyndication.com_0.indexeddb.leveldb/000046.log 
+2020/12/04-14:51:36.573 44df Level-0 table #50: started
+2020/12/04-14:51:36.577 44df Level-0 table #50: 190 bytes OK
+2020/12/04-14:51:36.585 44df Delete type=0 #46
+2020/12/04-14:51:36.586 44df Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/04-14:51:36.586 44df Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2020/12/04-14:51:36.586 44df Compacting 1@1 + 1@2 files
+2020/12/04-14:51:36.591 44df Generated table #51@1: 8 keys, 447 bytes
+2020/12/04-14:51:36.591 44df Compacted 1@1 + 1@2 files => 447 bytes
+2020/12/04-14:51:36.598 44df compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/04-14:51:36.599 44df Delete type=2 #5
+2020/12/04-14:51:36.599 44df Delete type=2 #50
+2020/12/04-14:51:36.599 44df Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/11/24-23:22:23.266 71cb Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_pico-8.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/24-23:35:59.802 5b57 Level-0 table #5: started
+2020/11/24-23:35:59.811 5b57 Level-0 table #5: 18147 bytes OK
+2020/11/24-23:35:59.819 5b57 Delete type=0 #3
+2020/11/24-23:35:59.820 5b57 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/01/14-13:08:11.647 1a99b0 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_logsextension.hosting.portal.azure.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/14-13:08:11.647 1a99b0 Recovering log #7
+2021/01/14-13:08:11.647 1a99b0 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_logsextension.hosting.portal.azure.net_0.indexeddb.leveldb/000007.log 
+2021/01/14-13:14:13.433 1aa98e Level-0 table #12: started
+2021/01/14-13:14:13.452 1aa98e Level-0 table #12: 714 bytes OK
+2021/01/14-13:14:13.460 1aa98e Delete type=0 #7
+2021/01/14-13:14:13.460 1aa98e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/14-13:14:13.460 1aa98e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0b\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00/\x00v\x001' @ 103 : 0
+2021/01/14-13:14:13.460 1aa98e Compacting 1@1 + 1@2 files
+2021/01/14-13:14:13.467 1aa98e Generated table #13@1: 22 keys, 715 bytes
+2021/01/14-13:14:13.467 1aa98e Compacted 1@1 + 1@2 files => 715 bytes
+2021/01/14-13:14:13.481 1aa98e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/14-13:14:13.481 1aa98e Delete type=2 #9
+2021/01/14-13:14:13.481 1aa98e Delete type=2 #12
+2021/01/14-13:14:13.482 1aa98e Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0b\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00/\x00v\x001' @ 103 : 0 .. (end); will stop at (end)

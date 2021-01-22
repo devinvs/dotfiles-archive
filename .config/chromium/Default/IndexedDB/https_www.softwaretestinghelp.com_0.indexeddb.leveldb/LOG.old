@@ -1,0 +1,5 @@
+2020/12/04-15:54:02.680 bb86 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.softwaretestinghelp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-15:54:05.067 bea7 Level-0 table #5: started
+2020/12/04-15:54:05.071 bea7 Level-0 table #5: 385 bytes OK
+2020/12/04-15:54:05.144 bea7 Delete type=0 #3
+2020/12/04-15:54:05.144 bea7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

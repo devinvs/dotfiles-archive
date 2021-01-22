@@ -1,0 +1,5 @@
+2020/12/23-18:05:00.721 14435e Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/23-18:05:08.324 14435e Level-0 table #5: started
+2020/12/23-18:05:08.327 14435e Level-0 table #5: 363 bytes OK
+2020/12/23-18:05:08.438 14435e Delete type=0 #3
+2020/12/23-18:05:08.438 14435e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

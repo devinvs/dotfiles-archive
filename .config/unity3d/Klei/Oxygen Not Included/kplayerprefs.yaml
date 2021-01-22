@@ -1,0 +1,19 @@
+strings:
+  INSTALL_TIMESTAMP: 637431795411284490
+  SaveFilenameKey/: /home/devin/.config/unity3d/Klei/Oxygen Not Included/cloud_save_files/76561198348206723/Subterranean Spacerock/Subterranean Spacerock.sav
+ints:
+  SESSION_ID: 0
+  LowResTextures: 0
+  ResolutionWidth: 3840
+  ResolutionHeight: 2400
+  RefreshRate: 60
+  FullScreen: 1
+  ColorModeID: 0
+  PatchNotesVersion: 9
+  GAME_ID: 0
+floats:
+  Volume_SFX: 1
+  Volume_Music: 1
+  Volume_Ambience: 1
+  Volume_Master: 1
+  Volume_UI: 1

@@ -1,0 +1,15 @@
+2020/12/30-08:24:51.771 557 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.usatoday.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/30-08:24:51.771 557 Recovering log #4
+2020/12/30-08:24:51.771 557 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.usatoday.com_0.indexeddb.leveldb/000004.log 
+2020/12/30-08:31:06.029 95f Level-0 table #8: started
+2020/12/30-08:31:06.032 95f Level-0 table #8: 1790 bytes OK
+2020/12/30-08:31:06.038 95f Delete type=0 #4
+2020/12/30-08:31:06.039 95f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/30-08:31:06.039 95f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x08\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s' @ 77 : 1
+2020/12/30-08:31:06.039 95f Compacting 1@1 + 1@2 files
+2020/12/30-08:31:06.042 95f Generated table #9@1: 37 keys, 994 bytes
+2020/12/30-08:31:06.042 95f Compacted 1@1 + 1@2 files => 994 bytes
+2020/12/30-08:31:06.048 95f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/30-08:31:06.048 95f Delete type=2 #5
+2020/12/30-08:31:06.048 95f Delete type=2 #8
+2020/12/30-08:31:06.048 95f Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x08\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s' @ 77 : 1 .. (end); will stop at (end)

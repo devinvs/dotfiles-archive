@@ -1,0 +1,7 @@
+alsa_card.usb-Schiit_Audio_Schiit_Modi_3-00:output:analog-output mute:0 volumes:2,1.000000,1.000000
+alsa_card.usb-Lenovo_ThinkPad_USB-C_Dock_Audio_000000000000-00:input:analog-input-mic mute:0 volumes:1,1.000000
+alsa_card.usb-Lenovo_ThinkPad_USB-C_Dock_Audio_000000000000-00:output:analog-output mute:0 volumes:2,0.099999,0.099999
+alsa_card.pci-0000:00:1f.3:input:analog-input-internal-mic mute:0 volumes:2,1.000183,1.000183
+alsa_card.pci-0000:00:1f.3:output:analog-output-speaker mute:0 volumes:2,0.097166,0.097166
+alsa_card.usb-BLUE_MICROPHONE_Blue_Snowball_201306-00:input:analog-input-mic mute:0 volumes:1,1.000000
+alsa_card.usb-046d_HD_Webcam_C525_10D51D20-00:input:analog-input-mic mute:0 volumes:1,0.501156

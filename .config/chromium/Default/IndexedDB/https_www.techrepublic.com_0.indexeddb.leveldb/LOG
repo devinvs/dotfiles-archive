@@ -1,0 +1,5 @@
+2020/12/27-16:10:45.657 171b Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.techrepublic.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/27-16:10:49.118 16ff Level-0 table #5: started
+2020/12/27-16:10:49.122 16ff Level-0 table #5: 350 bytes OK
+2020/12/27-16:10:49.195 16ff Delete type=0 #3
+2020/12/27-16:10:49.195 16ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

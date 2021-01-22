@@ -1,0 +1,15 @@
+2021/01/14-16:34:52.112 1ca629 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_azure.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/14-16:34:52.113 1ca629 Recovering log #47
+2021/01/14-16:34:52.113 1ca629 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_azure.microsoft.com_0.indexeddb.leveldb/000047.log 
+2021/01/14-16:34:58.162 1ca629 Level-0 table #52: started
+2021/01/14-16:34:58.166 1ca629 Level-0 table #52: 2233 bytes OK
+2021/01/14-16:34:58.338 1ca629 Delete type=0 #47
+2021/01/14-16:34:58.338 1ca629 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/14-16:34:58.338 1ca629 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01\x10\x003\x001\x002\x002\x007\x003\x009\x004\x008\x005\x008\x000\x003\x003\x007\x007\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x001\x002\x002\x007\x003\x009\x004\x008\x005\x008\x000\x003\x003\x007\x007\x00.\x001\x006\x001\x000\x006\x006\x007\x002\x009\x003\x003\x008\x005' @ 4918 : 1
+2021/01/14-16:34:58.338 1ca629 Compacting 1@1 + 1@2 files
+2021/01/14-16:34:58.342 1ca629 Generated table #53@1: 261 keys, 8055 bytes
+2021/01/14-16:34:58.342 1ca629 Compacted 1@1 + 1@2 files => 8055 bytes
+2021/01/14-16:34:58.348 1ca629 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/14-16:34:58.349 1ca629 Delete type=2 #49
+2021/01/14-16:34:58.349 1ca629 Delete type=2 #52
+2021/01/14-16:34:58.349 1ca629 Manual compaction at level-1 from '\x00\x01\x01\x1f\x01\x10\x003\x001\x002\x002\x007\x003\x009\x004\x008\x005\x008\x000\x003\x003\x007\x007\x00\x01(\x00c\x00t\x00.\x00p\x00.\x00m\x00.\x00V\x001\x00.\x003\x001\x002\x002\x007\x003\x009\x004\x008\x005\x008\x000\x003\x003\x007\x007\x00.\x001\x006\x001\x000\x006\x006\x007\x002\x009\x003\x003\x008\x005' @ 4918 : 1 .. (end); will stop at (end)

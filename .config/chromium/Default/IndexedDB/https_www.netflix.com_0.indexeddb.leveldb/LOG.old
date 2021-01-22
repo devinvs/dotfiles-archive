@@ -1,0 +1,39 @@
+2021/01/20-21:16:14.720 23daa Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-21:16:14.720 23daa Recovering log #262
+2021/01/20-21:16:14.730 23daa Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000262.log 
+2021/01/20-21:30:58.247 23774 Level-0 table #267: started
+2021/01/20-21:30:58.285 23774 Level-0 table #267: 2302725 bytes OK
+2021/01/20-21:30:58.292 23774 Delete type=0 #262
+2021/01/20-21:36:06.246 23774 Compacting 1@1 + 1@2 files
+2021/01/20-21:36:06.268 23774 Generated table #268@1: 67 keys, 25778 bytes
+2021/01/20-21:36:06.268 23774 Compacted 1@1 + 1@2 files => 25778 bytes
+2021/01/20-21:36:06.275 23774 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-21:36:06.276 23774 Delete type=2 #264
+2021/01/20-21:36:06.276 23774 Delete type=2 #267
+2021/01/20-22:20:46.205 26afa Level-0 table #270: started
+2021/01/20-22:20:46.225 26afa Level-0 table #270: 2168336 bytes OK
+2021/01/20-22:20:46.233 26afa Delete type=0 #266
+2021/01/21-00:45:54.169 2cb83 Compacting 1@1 + 1@2 files
+2021/01/21-00:45:54.179 2cb83 Generated table #271@1: 67 keys, 26016 bytes
+2021/01/21-00:45:54.179 2cb83 Compacted 1@1 + 1@2 files => 26016 bytes
+2021/01/21-00:45:54.191 2cb83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/21-00:45:54.191 2cb83 Delete type=2 #268
+2021/01/21-00:45:54.191 2cb83 Delete type=2 #270
+2021/01/21-01:10:50.269 2db7c Level-0 table #273: started
+2021/01/21-01:10:50.313 2db7c Level-0 table #273: 2363750 bytes OK
+2021/01/21-01:10:50.320 2db7c Delete type=0 #269
+2021/01/21-01:18:06.290 2cb83 Compacting 1@1 + 1@2 files
+2021/01/21-01:18:06.308 2cb83 Generated table #274@1: 67 keys, 26692 bytes
+2021/01/21-01:18:06.309 2cb83 Compacted 1@1 + 1@2 files => 26692 bytes
+2021/01/21-01:18:06.316 2cb83 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/21-01:18:06.316 2cb83 Delete type=2 #271
+2021/01/21-01:18:06.316 2cb83 Delete type=2 #273
+2021/01/21-01:59:07.865 2db7c Level-0 table #276: started
+2021/01/21-01:59:07.885 2db7c Level-0 table #276: 2253607 bytes OK
+2021/01/21-01:59:07.892 2db7c Delete type=0 #272
+2021/01/21-02:03:19.855 30b23 Compacting 1@1 + 1@2 files
+2021/01/21-02:03:19.866 30b23 Generated table #277@1: 67 keys, 29806 bytes
+2021/01/21-02:03:19.866 30b23 Compacted 1@1 + 1@2 files => 29806 bytes
+2021/01/21-02:03:19.873 30b23 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/21-02:03:19.873 30b23 Delete type=2 #274
+2021/01/21-02:03:19.873 30b23 Delete type=2 #276

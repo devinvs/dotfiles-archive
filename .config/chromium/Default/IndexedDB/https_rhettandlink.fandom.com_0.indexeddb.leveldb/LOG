@@ -1,0 +1,5 @@
+2020/12/27-20:45:33.326 154ec Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_rhettandlink.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/27-20:45:52.462 1550c Level-0 table #5: started
+2020/12/27-20:45:52.479 1550c Level-0 table #5: 19253 bytes OK
+2020/12/27-20:45:52.486 1550c Delete type=0 #3
+2020/12/27-20:45:52.486 1550c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

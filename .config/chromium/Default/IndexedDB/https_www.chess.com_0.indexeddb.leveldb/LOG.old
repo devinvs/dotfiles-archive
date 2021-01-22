@@ -1,0 +1,63 @@
+2020/11/22-16:31:15.927 1ac1 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-16:31:15.927 1ac1 Recovering log #7
+2020/11/22-16:31:15.927 1ac1 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/000007.log 
+2020/11/22-16:31:17.429 1ac1 Level-0 table #12: started
+2020/11/22-16:31:17.453 1ac1 Level-0 table #12: 1261047 bytes OK
+2020/11/22-16:31:17.476 1ac1 Delete type=0 #7
+2020/11/22-16:31:17.634 1ac1 Level-0 table #14: started
+2020/11/22-16:31:17.657 1ac1 Level-0 table #14: 1159582 bytes OK
+2020/11/22-16:31:17.663 1ac1 Delete type=0 #11
+2020/11/22-16:31:17.668 1ac1 Compacting 1@0 + 1@1 files
+2020/11/22-16:31:17.720 1ac1 Generated table #15@0: 35897 keys, 2200510 bytes
+2020/11/22-16:31:17.724 1ac1 Generated table #16@0: 996 keys, 35609 bytes
+2020/11/22-16:31:17.724 1ac1 Compacted 1@0 + 1@1 files => 2236119 bytes
+2020/11/22-16:31:17.733 1ac1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/11/22-16:31:17.833 1ac1 Level-0 table #18: started
+2020/11/22-16:31:17.854 1ac1 Level-0 table #18: 1195762 bytes OK
+2020/11/22-16:31:17.860 1ac1 Delete type=2 #12
+2020/11/22-16:31:17.860 1ac1 Delete type=0 #13
+2020/11/22-16:31:17.860 1ac1 Delete type=2 #14
+2020/11/22-16:31:17.863 1ac1 Compacting 1@0 + 2@1 files
+2020/11/22-16:31:17.910 1ac1 Generated table #19@0: 39603 keys, 2200215 bytes
+2020/11/22-16:31:17.935 1ac1 Generated table #20@0: 14493 keys, 1069291 bytes
+2020/11/22-16:31:17.935 1ac1 Compacted 1@0 + 2@1 files => 3269506 bytes
+2020/11/22-16:31:17.941 1ac1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/11/22-16:31:17.941 1ac1 Delete type=2 #15
+2020/11/22-16:31:17.941 1ac1 Delete type=2 #16
+2020/11/22-16:31:17.941 1ac1 Delete type=2 #18
+2020/11/22-16:31:18.031 3589 Level-0 table #22: started
+2020/11/22-16:31:18.058 3589 Level-0 table #22: 1198070 bytes OK
+2020/11/22-16:31:18.066 3589 Delete type=0 #17
+2020/11/22-16:32:28.186 358a Compacting 1@0 + 2@1 files
+2020/11/22-16:32:28.250 358a Generated table #23@0: 53272 keys, 2227048 bytes
+2020/11/22-16:32:28.269 358a Generated table #24@0: 13052 keys, 590530 bytes
+2020/11/22-16:32:28.269 358a Compacted 1@0 + 2@1 files => 2817578 bytes
+2020/11/22-16:32:28.276 358a compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/11/22-16:32:28.276 358a Delete type=2 #19
+2020/11/22-16:32:28.276 358a Delete type=2 #20
+2020/11/22-16:32:28.276 358a Delete type=2 #22
+2020/11/22-16:41:46.605 358b Level-0 table #26: started
+2020/11/22-16:41:46.612 358b Level-0 table #26: 231 bytes OK
+2020/11/22-16:41:46.621 358b Delete type=0 #21
+2020/11/22-16:41:46.621 358b Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x00\x7f\xff\xff\xff\xff\xff\xff\xff' @ 126072 : 0
+2020/11/22-16:41:46.621 358b Compacting 1@0 + 1@1 files
+2020/11/22-16:41:46.680 358b Generated table #27@0: 53272 keys, 2227175 bytes
+2020/11/22-16:41:46.680 358b Compacted 1@0 + 1@1 files => 2227175 bytes
+2020/11/22-16:41:46.687 358b compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/11/22-16:41:46.687 358b Delete type=2 #23
+2020/11/22-16:41:46.687 358b Delete type=2 #26
+2020/11/22-16:41:46.688 358b Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x00\x7f\xff\xff\xff\xff\xff\xff\xff' @ 126072 : 0 .. (end); will stop at (end)
+2020/11/22-16:41:46.688 358b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x01\x015\x00r\x00n\x00b\x00q\x00k\x00b\x00n\x00r\x00/\x00p\x00p\x003\x00p\x00p\x00p\x00/\x004\x00p\x003\x00/\x002\x00P\x00p\x00P\x003\x00/\x008\x00/\x008\x00/\x00P\x00P\x00P\x002\x00P\x00P\x00P\x00/\x00R\x00N\x00B\x00Q\x00K\x00B\x00N\x00R\x00 \x00b\x00 \x00K\x00Q\x00k\x00q' @ 18400 : 1
+2020/11/22-16:41:46.688 358b Compacting 1@1 + 1@2 files
+2020/11/22-16:41:46.781 358b Generated table #28@1: 11259 keys, 1890445 bytes
+2020/11/22-16:41:46.781 358b Compacted 1@1 + 1@2 files => 1890445 bytes
+2020/11/22-16:41:46.796 358b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/22-16:41:46.797 358b Delete type=2 #9
+2020/11/22-16:41:46.797 358b Delete type=2 #27
+2020/11/22-16:41:46.799 358b Manual compaction at level-1 from '\x00\x02\x01\x01\x015\x00r\x00n\x00b\x00q\x00k\x00b\x00n\x00r\x00/\x00p\x00p\x003\x00p\x00p\x00p\x00/\x004\x00p\x003\x00/\x002\x00P\x00p\x00P\x003\x00/\x008\x00/\x008\x00/\x00P\x00P\x00P\x002\x00P\x00P\x00P\x00/\x00R\x00N\x00B\x00Q\x00K\x00B\x00N\x00R\x00 \x00b\x00 \x00K\x00Q\x00k\x00q' @ 18400 : 1 .. (end); will stop at '\x00\x02\x01\x02\x01;\x00r\x00q\x00b\x001\x00k\x00b\x00n\x00r\x00/\x00p\x00p\x001\x00p\x001\x00p\x00p\x00p\x00/\x002\x00n\x001\x00p\x003\x00/\x001\x00N\x006\x00/\x004\x00P\x003\x00/\x002\x00N\x005\x00/\x00P\x00P\x00P\x002\x00P\x00P\x00P\x00/\x00R\x001\x00B\x00Q\x00K\x00B\x001\x00R\x00 \x00w\x00 \x00K\x00Q\x00k\x00q' @ 78241 : 1
+2020/11/22-16:41:46.799 358b Compacting 1@1 + 0@2 files
+2020/11/22-16:41:46.840 358b Generated table #29@1: 13052 keys, 590530 bytes
+2020/11/22-16:41:46.840 358b Compacted 1@1 + 0@2 files => 590530 bytes
+2020/11/22-16:41:46.849 358b compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/11/22-16:41:46.849 358b Delete type=2 #24
+2020/11/22-16:41:46.849 358b Manual compaction at level-1 from '\x00\x02\x01\x02\x01;\x00r\x00q\x00b\x001\x00k\x00b\x00n\x00r\x00/\x00p\x00p\x001\x00p\x001\x00p\x00p\x00p\x00/\x002\x00n\x001\x00p\x003\x00/\x001\x00N\x006\x00/\x004\x00P\x003\x00/\x002\x00N\x005\x00/\x00P\x00P\x00P\x002\x00P\x00P\x00P\x00/\x00R\x001\x00B\x00Q\x00K\x00B\x001\x00R\x00 \x00w\x00 \x00K\x00Q\x00k\x00q' @ 78241 : 1 .. (end); will stop at (end)

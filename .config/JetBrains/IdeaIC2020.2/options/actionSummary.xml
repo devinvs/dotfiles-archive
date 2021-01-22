@@ -1,0 +1,96 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="1" last="1606611411229" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="1035" last="1606707889788" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="148" last="1606613125368" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="18" last="1606612622989" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="5" last="1606611209683" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="14" last="1606611895101" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="181" last="1606613075489" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="66" last="1606613061175" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="19" last="1606612674044" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="15" last="1606610505218" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="29" last="1606612927432" />
+      </entry>
+      <entry key="EditorToggleInsertState">
+        <ActionSummary times="2" last="1606604056399" />
+      </entry>
+      <entry key="EditorUnindentSelection">
+        <ActionSummary times="1" last="1606610292789" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="7" last="1606611701187" />
+      </entry>
+      <entry key="Find">
+        <ActionSummary times="2" last="1606104152632" />
+      </entry>
+      <entry key="GotoDeclaration">
+        <ActionSummary times="3" last="1606607334271" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="1" last="1606611220992" />
+      </entry>
+      <entry key="NewFile">
+        <ActionSummary times="2" last="1606611383936" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="112" last="1606707893143" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="3" last="1606612568911" />
+      </entry>
+      <entry key="ShowProjectStructureSettings">
+        <ActionSummary times="3" last="1606600058638" />
+      </entry>
+      <entry key="Stop">
+        <ActionSummary times="38" last="1606613177736" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1606103590217" />
+      </entry>
+      <entry key="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+        <ActionSummary times="1" last="1606599580435" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+        <ActionSummary times="11" last="1606612215880" />
+      </entry>
+      <entry key="com.intellij.openapi.roots.ui.configuration.libraryEditor.CreateNewLibraryAction">
+        <ActionSummary times="5" last="1606600065638" />
+      </entry>
+      <entry key="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$2">
+        <ActionSummary times="4" last="1606598719239" />
+      </entry>
+      <entry key="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+        <ActionSummary times="20" last="1606600064662" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+        <ActionSummary times="2" last="1606604414968" />
+      </entry>
+      <entry key="editRunConfigurations">
+        <ActionSummary times="2" last="1606606581766" />
+      </entry>
+    </data>
+  </component>
+</application>
