@@ -1,8 +1,0 @@
-2020/12/07-15:57:11.439 11fcaa Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.factsherald.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/07-15:57:11.439 11fcaa Recovering log #7
-2020/12/07-15:57:11.440 11fcaa Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.factsherald.com_0.indexeddb.leveldb/000007.log 
-2020/12/07-15:57:18.760 11fcaa Level-0 table #11: started
-2020/12/07-15:57:18.760 11fcaa Level-0 table #11: 0 bytes OK
-2020/12/07-15:57:18.817 11fcaa Delete type=0 #7
-2020/12/07-15:57:18.817 11fcaa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/07-15:57:18.817 11fcaa Manual compaction at level-1 from (begin) .. (end); will stop at (end)

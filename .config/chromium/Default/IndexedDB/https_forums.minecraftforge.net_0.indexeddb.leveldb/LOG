@@ -1,8 +1,0 @@
-2020/12/02-21:41:52.116 a995b Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_forums.minecraftforge.net_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/02-21:41:52.116 a995b Recovering log #10
-2020/12/02-21:41:52.117 a995b Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_forums.minecraftforge.net_0.indexeddb.leveldb/000010.log 
-2020/12/02-21:42:04.667 a7ebb Level-0 table #14: started
-2020/12/02-21:42:04.667 a7ebb Level-0 table #14: 0 bytes OK
-2020/12/02-21:42:04.690 a7ebb Delete type=0 #10
-2020/12/02-21:42:04.690 a7ebb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/02-21:42:04.690 a7ebb Manual compaction at level-1 from (begin) .. (end); will stop at (end)

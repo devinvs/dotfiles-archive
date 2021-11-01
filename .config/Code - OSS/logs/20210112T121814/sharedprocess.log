@@ -1,9 +1,0 @@
-[2021-01-12 12:18:18.417] [sharedprocess] [info] main {"machineId":"a95496200b5148f1da2f942ab12053c098c6cc369a46289ba9678b9e0c41372b","windowId":2}
-[2021-01-12 12:18:18.572] [sharedprocess] [info] Deleted from disk matklad.rust-analyzer /home/devin/.vscode-oss/extensions/matklad.rust-analyzer-0.2.441
-[2021-01-12 12:18:21.717] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
-[2021-01-12 12:18:27.643] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml undefined
-[2021-01-12 12:18:28.310] [sharedprocess] [info] Extracted extension to /home/devin/.vscode-oss/extensions/.redhat.vscode-yaml-0.14.0: redhat.vscode-yaml
-[2021-01-12 12:18:28.310] [sharedprocess] [info] Renamed to /home/devin/.vscode-oss/extensions/redhat.vscode-yaml-0.14.0
-[2021-01-12 12:18:28.311] [sharedprocess] [info] Installation completed. redhat.vscode-yaml
-[2021-01-12 12:18:28.318] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-yaml
-[2021-01-12 12:18:58.427] [sharedprocess] [info] Starting to clean up unused language packs.

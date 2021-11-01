@@ -1,5 +1,0 @@
-2020/12/01-11:34:12.646 14afb3 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.purplemath.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/01-11:34:15.782 14c770 Level-0 table #5: started
-2020/12/01-11:34:15.786 14c770 Level-0 table #5: 1032 bytes OK
-2020/12/01-11:34:15.792 14c770 Delete type=0 #3
-2020/12/01-11:34:15.792 14c770 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

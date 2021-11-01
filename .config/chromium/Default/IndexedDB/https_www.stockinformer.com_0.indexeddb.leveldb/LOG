@@ -1,5 +1,0 @@
-2021/01/21-14:46:59.126 6a20 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.stockinformer.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/21-16:09:14.897 ccf0 Level-0 table #5: started
-2021/01/21-16:09:14.900 ccf0 Level-0 table #5: 3956 bytes OK
-2021/01/21-16:09:14.907 ccf0 Delete type=0 #3
-2021/01/21-16:09:14.907 ccf0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

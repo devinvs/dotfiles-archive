@@ -1,5 +1,0 @@
-2020/12/24-00:54:39.495 173a25 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/24-01:19:34.728 1775bf Level-0 table #5: started
-2020/12/24-01:19:34.736 1775bf Level-0 table #5: 15478 bytes OK
-2020/12/24-01:19:34.745 1775bf Delete type=0 #3
-2020/12/24-01:19:34.745 1775bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

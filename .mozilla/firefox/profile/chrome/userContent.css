@@ -1,0 +1,25 @@
+:host, :root {
+    --in-content-page-background: #1a1a1a !important;
+    --in-content-box-background: #1a1a1a !important;
+    --in-content-box-info-background: #323232 !important;
+    --in-content-primary-button-background: #a56cc4 !important;
+    --in-content-primary-button-background-hover: #9e73b5 !important;
+    --in-content-primary-button-backgournd-active: #b480d0 !important;
+    --in-content-danger-button-background: #f35656 !important;
+    --in-content-button-background: #1a1a1a !important;
+    --in-content-button-background-hover: #242424 !important;
+    --in-content-button-background-active: #282828 !important;
+    --in-content-primary-button-text-color: #1a1a1a !important;
+    --newtab-background-color: #1a1a1a !important;
+    --lwt-sidebar-background-color: #323232 !important;
+}
+
+body.activity-stream {
+    --newtab-background-color: #1a1a1a !important;
+}
+
+button.search-handoff-button {
+    background-color: #323232 !important;
+}
+
+

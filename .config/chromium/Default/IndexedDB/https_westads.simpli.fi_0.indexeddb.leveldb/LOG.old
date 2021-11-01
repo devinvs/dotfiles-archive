@@ -1,8 +1,0 @@
-2021/01/13-20:47:47.686 139a7e Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_westads.simpli.fi_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/13-20:47:47.686 139a7e Recovering log #13
-2021/01/13-20:47:47.686 139a7e Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_westads.simpli.fi_0.indexeddb.leveldb/000013.log 
-2021/01/13-20:50:59.832 139270 Level-0 table #17: started
-2021/01/13-20:50:59.832 139270 Level-0 table #17: 0 bytes OK
-2021/01/13-20:50:59.854 139270 Delete type=0 #13
-2021/01/13-20:50:59.854 139270 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/13-20:50:59.855 139270 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,8 +1,0 @@
-2020/12/16-22:04:25.618 91054 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_premiumbuilds.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/16-22:04:25.618 91054 Recovering log #35
-2020/12/16-22:04:25.618 91054 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_premiumbuilds.com_0.indexeddb.leveldb/000035.log 
-2020/12/16-22:04:40.929 8ea97 Level-0 table #39: started
-2020/12/16-22:04:40.929 8ea97 Level-0 table #39: 0 bytes OK
-2020/12/16-22:04:41.026 8ea97 Delete type=0 #35
-2020/12/16-22:04:41.026 8ea97 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/16-22:04:41.026 8ea97 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

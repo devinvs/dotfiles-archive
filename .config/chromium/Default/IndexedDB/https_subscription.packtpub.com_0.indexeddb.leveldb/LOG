@@ -1,5 +1,0 @@
-2020/12/13-14:14:59.681 291d Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_subscription.packtpub.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/13-14:19:16.545 1547 Level-0 table #5: started
-2020/12/13-14:19:16.549 1547 Level-0 table #5: 1263 bytes OK
-2020/12/13-14:19:16.555 1547 Delete type=0 #3
-2020/12/13-14:19:16.556 1547 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

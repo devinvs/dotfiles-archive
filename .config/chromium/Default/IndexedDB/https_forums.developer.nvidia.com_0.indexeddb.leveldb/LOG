@@ -1,5 +1,0 @@
-2020/12/14-20:57:53.088 4103c Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_forums.developer.nvidia.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/14-20:58:57.809 408fc Level-0 table #5: started
-2020/12/14-20:58:57.815 408fc Level-0 table #5: 105642 bytes OK
-2020/12/14-20:58:57.823 408fc Delete type=0 #3
-2020/12/14-20:58:57.824 408fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

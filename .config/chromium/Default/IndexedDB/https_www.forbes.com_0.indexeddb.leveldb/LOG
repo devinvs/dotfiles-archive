@@ -1,5 +1,0 @@
-2021/01/05-00:35:49.444 6650d Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.forbes.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/05-00:35:52.199 661c3 Level-0 table #5: started
-2021/01/05-00:35:52.203 661c3 Level-0 table #5: 338 bytes OK
-2021/01/05-00:35:52.209 661c3 Delete type=0 #3
-2021/01/05-00:35:52.209 661c3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

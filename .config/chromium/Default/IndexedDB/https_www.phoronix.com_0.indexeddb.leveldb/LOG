@@ -1,5 +1,0 @@
-2020/12/27-18:29:58.909 7a27 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.phoronix.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/27-18:30:09.711 7a99 Level-0 table #5: started
-2020/12/27-18:30:09.718 7a99 Level-0 table #5: 342 bytes OK
-2020/12/27-18:30:09.725 7a99 Delete type=0 #3
-2020/12/27-18:30:09.725 7a99 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

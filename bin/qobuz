@@ -1,2 +1,0 @@
-#!/bin/bash
-env GDK_SCALE=1 /usr/bin/google-chrome-stable --app=https://play.qobuz.com

@@ -1,5 +1,0 @@
-2021/01/08-13:23:10.546 15a0c2 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.javatpoint.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/08-13:23:24.871 15975c Level-0 table #5: started
-2021/01/08-13:23:24.875 15975c Level-0 table #5: 367 bytes OK
-2021/01/08-13:23:24.883 15975c Delete type=0 #3
-2021/01/08-13:23:24.883 15975c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,8 +1,0 @@
-2021/01/16-18:21:10.991 312489 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/16-18:21:10.992 312489 Recovering log #4
-2021/01/16-18:21:10.992 312489 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/000004.log 
-2021/01/16-18:21:21.451 3128ba Level-0 table #8: started
-2021/01/16-18:21:21.451 3128ba Level-0 table #8: 0 bytes OK
-2021/01/16-18:21:21.588 3128ba Delete type=0 #4
-2021/01/16-18:21:21.588 3128ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/16-18:21:21.588 3128ba Manual compaction at level-1 from (begin) .. (end); will stop at (end)

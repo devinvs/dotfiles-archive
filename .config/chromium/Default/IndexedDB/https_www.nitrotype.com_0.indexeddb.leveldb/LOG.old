@@ -1,5 +1,0 @@
-2020/12/03-15:20:48.839 1080a Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.nitrotype.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/03-15:20:55.464 f400 Level-0 table #5: started
-2020/12/03-15:20:55.467 f400 Level-0 table #5: 827 bytes OK
-2020/12/03-15:20:55.540 f400 Delete type=0 #3
-2020/12/03-15:20:55.540 f400 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

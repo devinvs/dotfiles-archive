@@ -1,8 +1,0 @@
-2020/11/27-23:14:36.632 18fb2 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/27-23:14:36.632 18fb2 Recovering log #16
-2020/11/27-23:14:36.633 18fb2 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/000016.log 
-2020/11/27-23:14:38.639 18fb2 Level-0 table #20: started
-2020/11/27-23:14:38.639 18fb2 Level-0 table #20: 0 bytes OK
-2020/11/27-23:14:38.701 18fb2 Delete type=0 #16
-2020/11/27-23:14:38.702 18fb2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/11/27-23:14:38.702 18fb2 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

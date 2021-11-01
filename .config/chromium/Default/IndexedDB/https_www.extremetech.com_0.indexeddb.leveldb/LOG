@@ -1,5 +1,0 @@
-2020/12/14-13:08:00.210 68d3 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.extremetech.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/14-21:23:25.187 4390c Level-0 table #5: started
-2020/12/14-21:23:25.192 4390c Level-0 table #5: 6041 bytes OK
-2020/12/14-21:23:25.199 4390c Delete type=0 #3
-2020/12/14-21:23:25.200 4390c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-#!/bin/sh
-
-title=$(playerctl metadata xesam:title);
-artist=$(playerctl metadata xesam:artist);
-
-echo "$artist - $title";

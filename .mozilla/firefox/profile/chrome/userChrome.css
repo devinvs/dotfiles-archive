@@ -1,0 +1,81 @@
+:root {
+    --tabpanel-background-color: #1a1a1a !important;
+}
+
+:root:-moz-lwtheme-brighttext {
+    --focus-outline-color: #a56cc4 !important;
+}
+
+html#main-window {
+    --lwt-accent-color: #1a1a1a !important;
+    --toolbar-bgcolor: #1a1a1a !important;
+    --toolbar-field-background-color: #1a1a1a !important;
+    --lwt-selected-tab-background-color: #a56cc4 !important;
+    --autocomplete-popup-highlight-background: #a56cc4 !important;
+    --toolbar-field-focus-background-color: #323232 !important;
+    --arrowpanel-background: #323232 !important;
+    --arrowpanel-border-color: transparent !important;
+    --chrome-content-separator-color: transparent !important;
+    --button-bgcolor: #1a1a1a !important;
+    --button-hover-bgcolor: #242424 !important;
+    --button-primary-bgcolor: #a56cc4 !important;
+    --button-primary-color: #1a1a1a !important;
+}
+
+toolbox#navigator-toolbox {
+    display: flex !important;
+    flex-direction: column-reverse !important;
+}
+
+box#tracking-protection-icon-container {
+    display: none !important;
+}
+
+box#identity-box {
+    display: none !important;
+}
+
+box#page-action-buttons {
+    display: none !important;
+}
+
+hbox#urlbar-input-container {
+    font-size: 0.9em !important;
+    background-color: #323232 !important;
+    padding-left: 8px !important;
+}
+
+moz-input-box.urlbar-input-box {
+    color: #f2f2f2 !important;
+}
+
+toolbaritem#urlbar-container {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+hbox#urlbar {
+    position: aboslute !important;
+    top: 0px !important;
+    --urlbar-height: 30px !important;
+}
+
+hbox#urlbar-input-container {
+    border-radius: 0 0 8px 8px !important;
+}
+
+hbox#urlbar-background {
+    border-radius: 0 0 8px 8px !important;
+}
+
+hbox#page-action-buttons {
+    display: none !important;
+}
+
+#urlbar.urlbarView {
+    font-size: 0.9rem !important;
+}
+
+#urlbar.search-one-offs:not([hidden]) {
+    display: none !important;
+}

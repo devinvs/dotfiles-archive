@@ -1,5 +1,0 @@
-2021/01/05-00:30:00.346 65ca6 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_pages.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/05-00:30:11.700 6470d Level-0 table #5: started
-2021/01/05-00:30:11.707 6470d Level-0 table #5: 1280 bytes OK
-2021/01/05-00:30:11.717 6470d Delete type=0 #3
-2021/01/05-00:30:11.717 6470d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

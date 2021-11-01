@@ -1,5 +1,0 @@
-2020/12/22-21:18:20.452 bdb32 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_markiplier.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/22-21:18:47.177 be80e Level-0 table #5: started
-2020/12/22-21:18:47.181 be80e Level-0 table #5: 11107 bytes OK
-2020/12/22-21:18:47.186 be80e Delete type=0 #3
-2020/12/22-21:18:47.187 be80e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

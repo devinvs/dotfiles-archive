@@ -1,8 +1,0 @@
-2020/12/30-08:31:10.546 db5 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.usatoday.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/30-08:31:10.546 db5 Recovering log #7
-2020/12/30-08:31:10.546 db5 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.usatoday.com_0.indexeddb.leveldb/000007.log 
-2020/12/30-08:31:14.872 db5 Level-0 table #12: started
-2020/12/30-08:31:14.872 db5 Level-0 table #12: 0 bytes OK
-2020/12/30-08:31:14.942 db5 Delete type=0 #7
-2020/12/30-08:31:14.942 db5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/30-08:31:14.942 db5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

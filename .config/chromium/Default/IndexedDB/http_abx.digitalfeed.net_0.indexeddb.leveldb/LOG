@@ -1,9 +1,0 @@
-2021/01/05-21:15:11.737 ef1f Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/http_abx.digitalfeed.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/05-21:15:11.776 ef28 Level-0 table #5: started
-2021/01/05-21:15:11.779 ef28 Level-0 table #5: 1214 bytes OK
-2021/01/05-21:15:11.817 ef28 Delete type=0 #3
-2021/01/05-21:15:11.818 ef28 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/01/05-21:17:26.027 ef3d Level-0 table #7: started
-2021/01/05-21:17:26.030 ef3d Level-0 table #7: 1622 bytes OK
-2021/01/05-21:17:26.036 ef3d Delete type=0 #4
-2021/01/05-21:17:26.036 ef3d Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

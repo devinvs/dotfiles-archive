@@ -1,5 +1,0 @@
-2020/12/23-16:57:31.424 13bce0 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.digitalspy.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/23-16:59:14.310 13b542 Level-0 table #5: started
-2020/12/23-16:59:14.317 13b542 Level-0 table #5: 125964 bytes OK
-2020/12/23-16:59:14.323 13b542 Delete type=0 #3
-2020/12/23-16:59:14.324 13b542 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

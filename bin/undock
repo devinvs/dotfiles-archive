@@ -1,4 +1,0 @@
-xrandr --output DP-0.1 --off --output DP-0.2 --off
-feh --bg-fill ~/bg.jpg
-i3-msg exec "picom -f --experimental-backends"
-launch_polybar.sh

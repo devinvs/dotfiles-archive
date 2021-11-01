@@ -1,3 +1,0 @@
-#!/bin/bash
-
-python /home/devin/bin/appify.py $1

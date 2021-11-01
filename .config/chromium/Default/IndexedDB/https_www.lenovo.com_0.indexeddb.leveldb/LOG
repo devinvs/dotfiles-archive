@@ -1,5 +1,0 @@
-2020/11/23-21:23:55.320 ecd6 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.lenovo.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/23-21:37:21.704 fcfe Level-0 table #5: started
-2020/11/23-21:37:21.722 fcfe Level-0 table #5: 1924 bytes OK
-2020/11/23-21:37:21.730 fcfe Delete type=0 #3
-2020/11/23-21:37:21.730 fcfe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

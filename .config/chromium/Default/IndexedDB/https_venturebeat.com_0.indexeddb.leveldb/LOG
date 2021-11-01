@@ -1,5 +1,0 @@
-2020/12/03-14:03:15.806 4297 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_venturebeat.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/03-14:05:03.568 4297 Level-0 table #5: started
-2020/12/03-14:05:03.586 4297 Level-0 table #5: 2741 bytes OK
-2020/12/03-14:05:03.594 4297 Delete type=0 #3
-2020/12/03-14:05:03.594 4297 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

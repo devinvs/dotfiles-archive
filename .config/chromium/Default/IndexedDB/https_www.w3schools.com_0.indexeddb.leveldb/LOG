@@ -1,8 +1,0 @@
-2021/01/19-18:33:33.463 1aac9 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/19-18:33:33.463 1aac9 Recovering log #42
-2021/01/19-18:33:33.463 1aac9 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/000042.log 
-2021/01/19-18:33:37.625 1a4b2 Level-0 table #46: started
-2021/01/19-18:33:37.625 1a4b2 Level-0 table #46: 0 bytes OK
-2021/01/19-18:33:37.717 1a4b2 Delete type=0 #42
-2021/01/19-18:33:37.717 1a4b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/19-18:33:37.717 1a4b2 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

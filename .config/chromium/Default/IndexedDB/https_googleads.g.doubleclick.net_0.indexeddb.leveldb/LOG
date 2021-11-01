@@ -1,8 +1,0 @@
-2021/01/11-13:35:10.666 36d272 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/11-13:35:10.667 36d272 Recovering log #73
-2021/01/11-13:35:10.667 36d272 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000073.log 
-2021/01/11-13:35:18.813 36d272 Level-0 table #77: started
-2021/01/11-13:35:18.813 36d272 Level-0 table #77: 0 bytes OK
-2021/01/11-13:35:18.835 36d272 Delete type=0 #73
-2021/01/11-13:35:18.835 36d272 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/11-13:35:18.835 36d272 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

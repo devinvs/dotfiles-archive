@@ -1,4 +1,0 @@
-#!/bin/bash
-
-cd /home/devin/src/GRIP
-./gradlew :ui:run

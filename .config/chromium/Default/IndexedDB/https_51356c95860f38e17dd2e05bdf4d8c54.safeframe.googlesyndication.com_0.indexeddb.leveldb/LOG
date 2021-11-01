@@ -1,8 +1,0 @@
-2020/12/09-23:44:25.479 c7fd6 Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_51356c95860f38e17dd2e05bdf4d8c54.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/09-23:44:25.479 c7fd6 Recovering log #13
-2020/12/09-23:44:25.479 c7fd6 Reusing old log /home/devin/.config/chromium/Default/IndexedDB/https_51356c95860f38e17dd2e05bdf4d8c54.safeframe.googlesyndication.com_0.indexeddb.leveldb/000013.log 
-2020/12/09-23:44:27.606 c7f6d Level-0 table #17: started
-2020/12/09-23:44:27.606 c7f6d Level-0 table #17: 0 bytes OK
-2020/12/09-23:44:27.629 c7f6d Delete type=0 #13
-2020/12/09-23:44:27.629 c7f6d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/09-23:44:27.629 c7f6d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

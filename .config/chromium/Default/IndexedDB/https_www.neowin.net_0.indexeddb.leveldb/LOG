@@ -1,5 +1,0 @@
-2020/11/28-19:53:39.195 a398f Reusing MANIFEST /home/devin/.config/chromium/Default/IndexedDB/https_www.neowin.net_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/28-19:53:48.816 a39a6 Level-0 table #5: started
-2020/11/28-19:53:48.833 a39a6 Level-0 table #5: 316 bytes OK
-2020/11/28-19:53:48.870 a39a6 Delete type=0 #3
-2020/11/28-19:53:48.870 a39a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
