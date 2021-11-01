@@ -1,0 +1,285 @@
+#!/bin/bash
+#Clear Terminal
+clear
+#Prompt for SU password to modprobe pcspkr
+echo "Modprobing required pcskpr..."
+sudo modprobe pcspkr
+#Clear Terminal
+clear
+#Display Credits
+echo "Running Beep Song:"
+echo "Portal - Still Alive"
+echo
+echo "By:"
+echo "Robert C. Maehl"
+# Add Helper Name(s)
+# echo ""
+echo
+echo "Beginning in:"
+echo -n "3..."
+sleep 1.0
+echo -n "2..."
+sleep 1.0
+echo -n "1..."
+sleep 1.0
+echo -n "NOW"
+#Clear Terminal
+clear
+echo -n "This "
+ffplay -f lavfi -i "sine=frequency=784:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "was "
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "a "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "tri"
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "umph."
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.8
+#New Line
+echo -n "I'm "
+ffplay -f lavfi -i "sine=frequency=784:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "making "
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "a "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "note "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.3
+echo "here: "
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+#New Line
+echo -n "HUGE "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.3
+echo -n "SUC"
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "CESS."
+ffplay -f lavfi -i "sine=frequency=440:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.8
+#New Line
+echo -n "It's "
+ffplay -f lavfi -i "sine=frequency=440:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "hard "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "to "
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "o"
+ffplay -f lavfi -i "sine=frequency=784:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "ver"
+ffplay -f lavfi -i "sine=frequency=659:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo "state "
+ffplay -f lavfi -i "sine=frequency=554:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.1
+#New Line
+echo -n "my "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "sat"
+ffplay -f lavfi -i "sine=frequency=659:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.1
+echo -n "is"
+ffplay -f lavfi -i "sine=frequency=440:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "fac"
+ffplay -f lavfi -i "sine=frequency=440:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "tion."
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo
+#Display Image
+sleep 1
+echo "                .,-:;//;:=,                  "
+echo "            . :H@@@MM@M#H/.,+%;,             "
+echo "         ,/X+ +M@@M@MM%=,-%HMMM@X/,          "
+echo "       -+@MM; #M@@MH+-,;XMMMM@MMMM@+-        "
+echo "      ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.      "
+echo "    ,%MM@@MH ,@%=            .---=-=:=,.     "
+echo "    =@#@@@MX .,              -%HX##%%%+;     "
+echo "   =-./@M@M$                  .;@MMMM@MM:    "
+echo "   X@/ -#MM/                    .+MM@@@M$    "
+echo "  ,@M@H: :@:                    . =X#@@@@-   "
+echo "  ,@@@MMX, .                    /H- ;@M@M=   "
+echo "  .H@@@@M@+,                    %MM+..%#$.   "
+echo "   /MMMM@MMH/.                  XM@MH; =;    "
+echo "    /%+%#XHH@$=              , .H@@@@MX,     "
+echo "     .=--------.           -%H.,@@@@@MX,     "
+echo "     .%MM@@@HHHXX###%+= .:#MMX =M@@MM%.      "
+echo "       =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=        "
+echo "         =%@M@M#@$-.=#@MM@@@M; %M%=          "
+echo "           ,:+$+-,/H#MMMMMMM@= =,            "
+echo "                 =++%%%%+/:-.                "
+echo
+echo -n "Ap"
+ffplay -f lavfi -i "sine=frequency=784:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "er"
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "ture "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "Sci"
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "ence"
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.8
+#New Line
+echo -n "We "
+ffplay -f lavfi -i "sine=frequency=784:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "do what "
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "we "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "must "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.3
+#New Line
+echo -n "be"
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "cause "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.3
+echo -n "we "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "can."
+ffplay -f lavfi -i "sine=frequency=440:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.8
+
+echo -n "For "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "the "
+ffplay -f lavfi -i "sine=frequency=740:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "good "
+ffplay -f lavfi -i "sine=frequency=784:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "of "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "all "
+ffplay -f lavfi -i "sine=frequency=554:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "of "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "us."
+ffplay -f lavfi -i "sine=frequency=659:duration=0.400" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.1
+#New Line
+echo -n "Ex"
+ffplay -f lavfi -i "sine=frequency=440:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "cept "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "the "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "ones "
+ffplay -f lavfi -i "sine=frequency=698:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "who "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "are "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "dead."
+ffplay -f lavfi -i "sine=frequency=523:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.4
+#Blank Line
+echo
+#New Line
+ffplay -f lavfi -i "sine=frequency=440:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "But "
+ffplay -f lavfi -i "sine=frequency=466:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "there's "
+ffplay -f lavfi -i "sine=frequency=523:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "no "
+ffplay -f lavfi -i "sine=frequency=698:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "sense "
+sleep 0.1
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "cry"
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "ing "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+#New Line
+echo -n "over "
+ffplay -f lavfi -i "sine=frequency=523:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.05
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "every "
+ffplay -f lavfi -i "sine=frequency=523:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "mis"
+sleep 0.05
+ffplay -f lavfi -i "sine=frequency=523:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo "take."
+sleep 0.05
+ffplay -f lavfi -i "sine=frequency=523:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.2
+#New Line
+ffplay -f lavfi -i "sine=frequency=440:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "You "
+ffplay -f lavfi -i "sine=frequency=466:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "just "
+ffplay -f lavfi -i "sine=frequency=523:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "keep "
+ffplay -f lavfi -i "sine=frequency=698:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "on "
+sleep 0.1
+ffplay -f lavfi -i "sine=frequency=783:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "try"
+ffplay -f lavfi -i "sine=frequency=698:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "ing "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.250" -autoexit -nodisp > /dev/null 2>&1
+#New Line
+echo -n "til "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "you "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "run "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "out "
+ffplay -f lavfi -i "sine=frequency=698:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo -n "of "
+sleep 0.05
+ffplay -f lavfi -i "sine=frequency=698:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+echo "cake."
+sleep 0.1
+#New Line
+echo -n "And "
+ffplay -f lavfi -i "sine=frequency=783:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "the "
+ffplay -f lavfi -i "sine=frequency=880:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "Sci"
+ffplay -f lavfi -i "sine=frequency=932:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "ence "
+ffplay -f lavfi -i "sine=frequency=932:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "gets "
+ffplay -f lavfi -i "sine=frequency=880:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.05
+echo "done."
+ffplay -f lavfi -i "sine=frequency=783:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+#New Line
+echo -n "And "
+ffplay -f lavfi -i "sine=frequency=698:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "you "
+ffplay -f lavfi -i "sine=frequency=783:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "make "
+ffplay -f lavfi -i "sine=frequency=880:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "a "
+ffplay -f lavfi -i "sine=frequency=880:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "neat "
+ffplay -f lavfi -i "sine=frequency=783:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.05
+echo "gun."
+ffplay -f lavfi -i "sine=frequency=698:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.1
+#New Line
+#The Notes are off starting around here
+echo -n "for "
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "the "
+ffplay -f lavfi -i "sine=frequency=523:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "peo"
+ffplay -f lavfi -i "sine=frequency=587:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "ple "
+ffplay -f lavfi -i "sine=frequency=698:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "who "
+ffplay -f lavfi -i "sine=frequency=698:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo "are"
+ffplay -f lavfi -i "sine=frequency=659:duration=0.300" -autoexit -nodisp > /dev/null 2>&1
+sleep 0.05
+#New Line
+echo -n "still "
+ffplay -f lavfi -i "sine=frequency=659:duration=0.200" -autoexit -nodisp > /dev/null 2>&1
+echo -n "a"
+ffplay -f lavfi -i "sine=frequency=739:duration=0.100" -autoexit -nodisp > /dev/null 2>&1
+echo "live."
+ffplay -f lavfi -i "sine=frequency=739:duration=0.400" -autoexit -nodisp > /dev/null 2>&1
+#Need more lyrics and beeps (I have the ascii art already_
