@@ -1,5 +1,6 @@
 :root {
     --tabpanel-background-color: #1a1a1a !important;
+    --tab-border-radius: 16px !important;
 }
 
 :root:-moz-lwtheme-brighttext {
@@ -58,24 +59,29 @@ hbox#urlbar {
     position: aboslute !important;
     top: 0px !important;
     --urlbar-height: 30px !important;
+    margin-bottom: 4px;
 }
 
 hbox#urlbar-input-container {
-    border-radius: 0 0 8px 8px !important;
+    border-radius: 0 0 16px 16px !important;
 }
 
 hbox#urlbar-background {
-    border-radius: 0 0 8px 8px !important;
+    border-radius: 0 0 16px 16px !important;
 }
 
 hbox#page-action-buttons {
     display: none !important;
 }
 
-#urlbar.urlbarView {
+.urlbarView {
     font-size: 0.9rem !important;
 }
 
-#urlbar.search-one-offs:not([hidden]) {
+.search-one-offs {
+    display: none !important;
+}
+
+.urlbarView-url {
     display: none !important;
 }
